@@ -1,0 +1,472 @@
+
+<!DOCTYPE html>
+<!--input: info_dict-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1 align='center'>Speech examples of speech audio edit for Chinese and English dataset</h1>
+<h2>
+    We select VCTK and MST dataset to be English and Chinese dataset for demo respectively. For each dataset, we 
+    provide 15 samples for each edit option, including insertion, replacement and deletion. For the insertion and 
+    replacement, we provide the original audio, the edited audio from baseline systems and our proposed system, to
+    not only demonstrates the edit effect but also allow the listeners to compare the edit performance of different systems.
+    For the deletion, we only provide the original audio and the edited audio from our proposed system, as difference 
+    between different system is not noticeable.
+</h2>
+
+
+<hr>
+ 
+<h2>
+<font color='red'>1. English VCTK dataset:</font><br>
+</h2>
+
+
+<hr>
+
+<h3>
+<font color='red'>1.1 Insertion:</font><br>
+Each sample has<font color='red'> 6 audios</font>, of which one is the original audio from human, and
+the other 5 are synthesized audios. The synthesized audio are based on the <font
+color='red'>modified text where some words are inserted into the text of the original audio</font>.
+</h3>
+
+
+<hr>
+<strong>Sample:1</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>For that reason cover should not be given.
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>for that reason cover should not be given
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>for that theoretical and realistic reason cover should not be given
+</strong><br>
+    </td>
+</tr>
+
+
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_insert_text_comparison/p243/313/audio_groundtruth.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 1</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_insert_text_comparison/p243/313/baseline_1_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 2</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_insert_text_comparison/p243/313/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 3</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_insert_text_comparison/p243/313/baseline_3_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 4</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_insert_text_comparison/p243/313/proposed_system_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_insert_text_comparison/p243/313/proposed_system_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<hr>
+
+<h3>
+<font color='red'>1.2 Replacement:</font><br>
+Each sample has<font color='red'> 6 audios</font>, of which one is the original audio from human, and
+the other 5 are synthesized audios. The synthesized audio are based on the <font
+color='red'>modified text where some words in the text of original audio are replaced by other words</font>.
+</h3>
+
+
+<hr>
+<strong>Sample:1</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>For that reason cover should not be given.
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>for that reason cover should not be given
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>for that reason cover is impossible to be given
+</strong><br>
+    </td>
+</tr>
+
+
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_modify_text_comparison/p243/313/audio_groundtruth.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 1</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_modify_text_comparison/p243/313/baseline_1_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 2</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_modify_text_comparison/p243/313/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 3</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_modify_text_comparison/p243/313/baseline_3_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 4</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_modify_text_comparison/p243/313/proposed_system_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/English_VCTK/overall_modify_text_comparison/p243/313/proposed_system_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<hr>
+
+<hr>
+
+<h3>
+<font color='red'>2.1 Insertion:</font><br>
+Each sample has<font color='red'> 6 audios</font>, of which one is the original audio from human, and
+the other 5 are synthesized audios. The synthesized audio are based on the <font
+color='red'>modified text where some words are inserted into the text of the original audio</font>.
+</h3>
+
+
+<hr>
+<strong>Sample:1</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>最后，一些粗浅观察吧，就多说几点吧。一，越南确实在勃兴。
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>zui4 hou4 yi1 xie1 cu1 qian3 guan1 cha2 ba5 jiu4 duo1 shuo1 ji3 dian3 ba5 yi1 yue4 nan2 que4 shi2 zai4 bo2 xing1
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>zui4 hou4 yi1 xie1 我自己的 cu1 qian3 guan1 cha2 ba5 jiu4 duo1 shuo1 ji3 dian3 ba5 yi1 yue4 nan2 que4 shi2 zai4 bo2 xing1
+</strong><br>
+    </td>
+</tr>
+
+
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_insert_text_comparison/MST_S1/000223/audio_groundtruth.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 1</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_insert_text_comparison/MST_S1/000223/baseline_1_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 2</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_insert_text_comparison/MST_S1/000223/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 3</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_insert_text_comparison/MST_S1/000223/baseline_3_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 4</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_insert_text_comparison/MST_S1/000223/proposed_system_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_insert_text_comparison/MST_S1/000223/proposed_system_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<hr>
+
+<h3>
+<font color='red'>2.2 Replacement:</font><br>
+Each sample has<font color='red'> 6 audios</font>, of which one is the original audio from human, and
+the other 5 are synthesized audios. The synthesized audio are based on the <font
+color='red'>modified text where some words in the text of original audio are replaced by other words</font>.
+</h3>
+
+
+<hr>
+<strong>Sample:1</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>最后，一些粗浅观察吧，就多说几点吧。一，越南确实在勃兴。
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>zui4 hou4 yi1 xie1 cu1 qian3 guan1 cha2 ba5 jiu4 duo1 shuo1 ji3 dian3 ba5 yi1 yue4 nan2 que4 shi2 zai4 bo2 xing1
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>zui4 hou4 yi1 xie1 个人看法 ba5 jiu4 duo1 shuo1 ji3 dian3 ba5 yi1 yue4 nan2 que4 shi2 zai4 bo2 xing1
+</strong><br>
+    </td>
+</tr>
+
+
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_modify_text_comparison/MST_S1/000223/audio_groundtruth.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 1</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_modify_text_comparison/MST_S1/000223/baseline_1_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 2</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_modify_text_comparison/MST_S1/000223/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 3</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_modify_text_comparison/MST_S1/000223/baseline_3_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>baseline system 4</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_modify_text_comparison/MST_S1/000223/proposed_system_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
+
+<tr>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src=/home/daxintan/AudioEdit-DuriTaco/github/Speech-Audio-Edit/samples/Chinese_MST/overall_modify_text_comparison/MST_S1/000223/proposed_system_audio_outputs_hifigan_UNIVERSAL_V1.wav type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+</body>
+</html>
+    
