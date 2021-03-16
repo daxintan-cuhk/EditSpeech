@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--input: info_dict-->
 <html lang="en">
@@ -16,24 +15,18 @@
     For the deletion, we only provide the original audio and the edited audio from our proposed system, as difference 
     between different system is not noticeable.
 </h2>
-
-
 <hr>
  
 <h2>
 <font color='red'>1. English VCTK dataset:</font><br>
 </h2>
-
-
 <hr>
-
 <h3>
 <font color='red'>1.1 Insertion:</font><br>
 Each sample has<font color='red'> 6 audios</font>, of which one is the original audio from human, and
 the other 5 are synthesized audios. The synthesized audio are based on the <font
 color='red'>modified text where some words are inserted into the text of the original audio</font>.
 </h3>
-
 
 <hr>
 <strong>Sample:1</strong>
@@ -57,7 +50,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 
-
 <tr>
     <td>
     <h3 align='center'><strong>original_audio</strong></h3>
@@ -67,9 +59,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -80,9 +69,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -93,9 +79,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -106,9 +89,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -119,9 +99,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -132,10 +109,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
-
 <hr>
 
 <h3>
@@ -144,7 +117,6 @@ Each sample has<font color='red'> 6 audios</font>, of which one is the original 
 the other 5 are synthesized audios. The synthesized audio are based on the <font
 color='red'>modified text where some words in the text of original audio are replaced by other words</font>.
 </h3>
-
 
 <hr>
 <strong>Sample:1</strong>
@@ -168,7 +140,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 
-
 <tr>
     <td>
     <h3 align='center'><strong>original_audio</strong></h3>
@@ -178,9 +149,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -191,9 +159,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -204,9 +169,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -217,9 +179,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -230,9 +189,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -243,21 +199,14 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
-
 <hr>
-
 <hr>
-
 <h3>
 <font color='red'>2.1 Insertion:</font><br>
 Each sample has<font color='red'> 6 audios</font>, of which one is the original audio from human, and
 the other 5 are synthesized audios. The synthesized audio are based on the <font
 color='red'>modified text where some words are inserted into the text of the original audio</font>.
 </h3>
-
 
 <hr>
 <strong>Sample:1</strong>
@@ -281,7 +230,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 
-
 <tr>
     <td>
     <h3 align='center'><strong>original_audio</strong></h3>
@@ -291,9 +239,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -304,9 +249,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -317,9 +259,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -330,9 +269,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -343,9 +279,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -356,10 +289,6 @@ color='red'>modified text where some words are inserted into the text of the ori
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
-
 <hr>
 
 <h3>
@@ -368,7 +297,6 @@ Each sample has<font color='red'> 6 audios</font>, of which one is the original 
 the other 5 are synthesized audios. The synthesized audio are based on the <font
 color='red'>modified text where some words in the text of original audio are replaced by other words</font>.
 </h3>
-
 
 <hr>
 <strong>Sample:1</strong>
@@ -392,7 +320,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 
-
 <tr>
     <td>
     <h3 align='center'><strong>original_audio</strong></h3>
@@ -402,9 +329,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -415,9 +339,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -428,9 +349,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -441,9 +359,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -454,9 +369,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
-</body>
-</html>
-    
 
 <tr>
     <td>
@@ -467,6 +379,6 @@ color='red'>modified text where some words in the text of original audio are rep
     </td>
 </tr>
 </table>
+
 </body>
 </html>
-    
