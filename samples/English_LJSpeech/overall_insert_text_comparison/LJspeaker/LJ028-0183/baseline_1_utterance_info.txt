@@ -1,0 +1,13 @@
+original_text:Cyrus, the King of Persia, was rising to power, and after he had defeated the Medes
+text_to_insert:in a war
+speaker:LJspeaker
+word_location_to_insert:11
+original_word_list:cyrus the king of persia was rising to power and after he had defeated the medes
+inserted_word_list:cyrus the king of persia was rising to power and after in a war he had defeated the medes
+phone_location_to_insert:38
+phone_list_to_insert:IH0 N AH0 W AO1 R
+original_phone_list:S AY1 R AH0 S DH IY0 K IH1 NG AH1 V P ER1 ZH AH0 sp W AH0 Z R AY1 Z IH0 NG T UW1 P AW1 ER0 sp AE1 N D AE1 F T ER0 HH IY1 HH AE1 D D IH0 F IY1 T IH0 D DH AH0 sp M IY1 D Z sp
+inserted_phone_list:S AY1 R AH0 S DH IY0 K IH1 NG AH1 V P ER1 ZH AH0 sp W AH0 Z R AY1 Z IH0 NG T UW1 P AW1 ER0 sp AE1 N D AE1 F T ER0 IH0 N AH0 W AO1 R HH IY1 HH AE1 D D IH0 F IY1 T IH0 D DH AH0 sp M IY1 D Z sp
+original_duration_list:16 13 8 10 9 5 5 8 3 9 2 12 7 13 6 24 20 15 3 8 11 14 6 3 7 5 5 11 21 19 26 7 5 6 19 6 5 4 6 9 7 5 6 3 5 11 10 6 4 9 3 7 3 3 25 4 17 3
+predicted_inserted_duration_list:13 13 7 6 9 4 5 9 6 10 3 9 10 11 6 14 11 5 3 9 8 12 6 3 7 8 5 10 19 22 16 8 4 4 12 7 7 7 4 4 6 8 4 6 7 7 6 5 4 3 4 10 10 5 4 5 2 7 1 7 20 6 18 2
+frame_index_to_separate:143 frame_num"493

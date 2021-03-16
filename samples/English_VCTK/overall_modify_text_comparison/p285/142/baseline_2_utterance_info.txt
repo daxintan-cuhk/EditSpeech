@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/VCTK/p285/p285_142.wav
+original_text:Initial reports said the aircraft had experienced a loss of power.
+text_to_replace:new tractor of my friend
+speaker:p285
+word_modify_location_start:4
+word_modify_location_end:4
+original_word_list:initial reports said the aircraft had experienced a loss of power
+modified_word_list:initial reports said the new tractor of my friend had experienced a loss of power
+phone_modify_location_start:19
+phone_modify_location_end:25
+original_phone_list:sil IH0 N IH1 SH AH0 L R IH0 P AO1 R T S S EH1 D DH IY0 EH1 R K R AE2 F T HH AE1 D IH0 K S P IH1 R IY0 AH0 N S T AH0 L AO1 S AH0 V P AW1 ER0 sp
+modified_phone_list:sil IH0 N IH1 SH AH0 L R IH0 P AO1 R T S S EH1 D DH IY0 N UW1 T R AE1 K T ER0 AH1 V M AY1 F R EH1 N D HH AE1 D IH0 K S P IH1 R IY0 AH0 N S T AH0 L AO1 S AH0 V P AW1 ER0 sp
+original_duration_list:70 10 4 7 9 3 3 3 5 7 9 3 4 4 6 6 4 5 6 4 5 6 4 8 5 3 3 3 4 5 4 5 4 6 3 3 2 4 6 4 6 5 6 9 2 5 8 10 15 28
+phone_list_to_replace:N UW1 T R AE1 K T ER0 AH1 V M AY1 F R EH1 N D
+duration_list_to_replace:6 7 6 4 8 5 5 5 5 5 5 8 7 4 6 6 7
+frame_index_to_separate:53 frame_num:417

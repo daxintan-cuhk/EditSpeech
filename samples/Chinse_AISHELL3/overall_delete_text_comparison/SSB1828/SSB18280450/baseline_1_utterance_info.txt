@@ -1,0 +1,17 @@
+original_text:昨日就去看医生
+speaker:SSB1828
+word_delete_location_start:2
+word_delete_location_end:3
+word_buffer_size:1
+text_to_replace:ri4 kan4
+word_modify_location_start:1
+word_modify_location_end:4
+original_word_list:zuo2 ri4 jiu4 qu4 kan4 yi1 sheng1
+modified_word_list:zuo2 ri4 kan4 yi1 sheng1
+phone_modify_location_start:3
+phone_modify_location_end:11
+original_phone_list:sil z uo2 r ii4 j iu4 q v4 k a4 n i1 sh e1 ng sp
+modified_phone_list:sil z uo2 r ii4 sp k a4 n i1 sh e1 ng sp
+original_duration_list:13 21 12 10 9 5 10 7 5 9 6 12 6 9 9 19 25
+predicted_modified_duration_list:23 9 9 10 9 4 7 6 9 9 9 9 18 31
+frame_index_to_separate:1 frame_num:162

@@ -1,0 +1,17 @@
+original_text:This was obviated by the frequent sessions of the Central Criminal Court, and the utilization of the two subsidiary prisons in Giltspur Street and Southwark.
+speaker:LJspeaker
+word_delete_location_start:4
+word_delete_location_end:7
+word_buffer_size:1
+text_to_replace:by the
+word_modify_location_start:3
+word_modify_location_end:8
+original_word_list:this was obviated by the frequent sessions of the central criminal court and the utilization of the two subsidiary prisons in giltspur street and southwark
+modified_word_list:this was obviated by the central criminal court and the utilization of the two subsidiary prisons in giltspur street and southwark
+phone_modify_location_start:14
+phone_modify_location_end:35
+original_phone_list:DH IH1 S W AH0 Z AA1 B V IY0 EY2 T AH0 D B AY1 DH AH0 F R IY1 K W AH0 N T S EH1 SH AH0 N Z AH0 V DH AH0 S EH1 N T R AH0 L K R IH1 M AH0 N AH0 L sp K AO1 R T sp AE1 N D DH IY0 Y UW2 T AH0 L AH0 Z EY1 SH AH0 N AH1 V DH AH0 T UW1 S AH0 B S IH1 D IY0 EH2 R IY0 P R IH1 Z AH0 N Z IH1 N G IH1 L T S P ER2 S T R IY1 T AE1 N D S AW1 TH W AO1 R K
+modified_phone_list:DH IH1 S W AH0 Z AA1 B V IY0 EY2 T AH0 D B AY1 DH AH0 S EH1 N T R AH0 L K R IH1 M AH0 N AH0 L sp K AO1 R T sp AE1 N D DH IY0 Y UW2 T AH0 L AH0 Z EY1 SH AH0 N AH1 V DH AH0 T UW1 S AH0 B S IH1 D IY0 EH2 R IY0 P R IH1 Z AH0 N Z IH1 N G IH1 L T S P ER2 S T R IY1 T AE1 N D S AW1 TH W AO1 R K
+original_duration_list:3 8 12 5 5 11 16 8 6 13 5 7 7 6 5 8 4 4 10 3 10 6 2 4 4 4 11 7 10 5 5 6 4 6 2 6 12 4 3 8 3 2 8 8 2 4 6 3 3 3 9 2 13 7 8 17 18 6 3 2 3 4 10 6 3 5 5 8 10 11 13 4 5 6 7 3 6 9 13 11 3 4 13 6 3 13 3 9 9 8 4 4 7 10 6 8 6 9 8 4 7 6 9 6 7 13 6 5 10 6 12 4 7 9 20 4 5 4 9 9
+predicted_modified_duration_list:3 7 8 4 3 8 11 4 4 11 6 3 5 6 4 8 4 4 12 5 3 6 2 3 5 9 3 4 4 3 3 4 11 6 9 9 9 13 16 9 4 2 2 4 9 4 3 3 6 5 7 10 9 4 5 5 5 2 5 8 9 7 3 4 11 4 3 12 4 6 8 8 4 5 6 5 7 7 6 7 6 5 8 8 6 8 8 11 7 5 10 6 5 3 5 11 15 8 8 8 12 11
+frame_index_to_separate:185 frame_num:653

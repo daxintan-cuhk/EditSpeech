@@ -1,0 +1,13 @@
+original_text:That kind of growth is the important thing.
+text_to_insert:in childhood
+speaker:p298
+word_location_to_insert:4
+original_word_list:that kind of growth is the important thing
+inserted_word_list:that kind of growth in childhood is the important thing
+phone_location_to_insert:14
+phone_list_to_insert:IH0 N CH AY1 L D HH UH2 D
+original_phone_list:sil DH AE1 T K AY1 N D AH0 V G R OW1 TH IH1 Z DH IY0 IH0 M P AO1 R T AH0 N T TH IH1 NG sp
+inserted_phone_list:sil DH AE1 T K AY1 N D AH0 V G R OW1 TH IH0 N CH AY1 L D HH UH2 D IH1 Z DH IY0 IH0 M P AO1 R T AH0 N T TH IH1 NG sp
+original_duration_list:80 7 5 7 7 8 3 2 5 2 8 10 8 7 9 4 6 3 4 4 5 5 6 7 4 3 3 7 5 9 76
+overall_inserted_duration_list:80 7 5 7 7 8 3 2 5 2 8 10 8 7 4 6 13 12 5 5 6 5 6 9 4 6 3 4 4 5 5 6 7 4 3 3 7 5 9 76
+frame_index_to_separate:201 frame_num:381

@@ -1,0 +1,13 @@
+original_text:机器人不仅要能听懂你在说什么
+text_to_insert:轻而易举
+speaker:SSB0578
+word_location_to_insert:7
+original_word_list:ji1 qi4 ren2 bu4 jin3 yao4 neng2 ting1 dong3 ni3 zai4 shuo1 shen2 me5
+inserted_word_list:ji1 qi4 ren2 bu4 jin3 yao4 neng2 轻而易举 ting1 dong3 ni3 zai4 shuo1 shen2 me5
+phone_location_to_insert:19
+phone_list_to_insert:q i1 ng e2 r i4 j v3
+original_phone_list:sil j i1 q i4 r e2 n sp b u4 j i3 n sp iao4 n e2 ng t i1 ng d o3 ng sp n i3 sp z ai4 sh uo1 sh e2 n m e5 sp
+inserted_phone_list:sil j i1 q i4 r e2 n sp b u4 j i3 n sp iao4 n e2 ng q i1 ng e2 r i4 j v3 t i1 ng d o3 ng sp n i3 sp z ai4 sh uo1 sh e2 n m e5 sp
+original_duration_list:19 10 9 9 9 6 9 6 4 2 10 7 6 7 3 15 3 9 4 7 3 9 4 11 3 3 5 6 5 5 11 13 12 8 6 3 7 24 31
+predicted_inserted_duration_list:25 7 11 8 8 5 7 12 4 3 8 7 7 12 6 15 7 8 6 9 4 5 6 9 12 7 9 7 4 9 4 5 11 7 5 12 4 5 11 11 9 9 4 3 5 15 30
+frame_index_to_separate:50 frame_num"397

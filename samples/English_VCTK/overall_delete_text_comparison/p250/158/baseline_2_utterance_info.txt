@@ -1,0 +1,15 @@
+original_text:What do we want to do that for?
+speaker:p250
+word_delete_location_start:3
+word_delete_location_end:4
+word_buffer_size:1
+text_to_replace:
+word_modify_location_start:3
+word_modify_location_end:4
+original_word_list:what do we want to do that for
+modified_word_list:what do we  do that for
+phone_modify_location_start:8
+phone_modify_location_end:13
+original_phone_list:sil W AH1 T D UW1 W IY1 W AA1 N T T IH0 D UW1 DH AE1 T F AO1 R sp
+modified_phone_list:sil W AH1 T D UW1 W IY1 D UW1 DH AE1 T F AO1 R sp
+original_duration_list:81 7 5 2 4 3 5 4 10 4 4 2 5 2 6 5 4 9 3 7 7 9 17

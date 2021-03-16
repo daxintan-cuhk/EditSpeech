@@ -1,0 +1,13 @@
+original_text:We're not seeing an image of the person, he said.
+text_to_insert:actually
+speaker:p265
+word_location_to_insert:2
+original_word_list:we're not seeing an image of the person he said
+inserted_word_list:we're not actually seeing an image of the person he said
+phone_location_to_insert:6
+phone_list_to_insert:AE1 K CH AH0 W AH0 L IY0
+original_phone_list:sil W ER1 N AA1 T S IY1 IH0 NG AE1 N sp IH1 M AH0 JH AH1 V DH AH0 P ER1 S AH0 N sp HH IY1 S EH1 D sp
+inserted_phone_list:sil W ER1 N AA1 T AE1 K CH AH0 W AH0 L IY0 S IY1 IH0 NG AE1 N sp IH1 M AH0 JH AH1 V DH AH0 P ER1 S AH0 N sp HH IY1 S EH1 D sp
+original_duration_list:81 7 8 7 9 8 13 11 4 7 2 7 3 8 7 10 9 4 7 4 4 10 13 11 9 15 8 15 7 10 14 18 12
+overall_inserted_duration_list:81 7 8 7 9 8 10 6 7 5 4 3 4 8 13 11 4 7 2 7 3 8 7 10 9 4 7 4 4 10 13 11 9 15 8 15 7 10 14 18 12
+frame_index_to_separate:137 frame_num:409

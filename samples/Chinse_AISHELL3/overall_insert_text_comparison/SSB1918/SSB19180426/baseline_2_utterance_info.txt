@@ -1,0 +1,13 @@
+original_text:乔丹的书籍有什么
+text_to_insert:视频和
+speaker:SSB1918
+word_location_to_insert:3
+original_word_list:qiao2 dan1 de5 shu1 ji2 you3 shen2 me5
+inserted_word_list:qiao2 dan1 de5 视频和 shu1 ji2 you3 shen2 me5
+phone_location_to_insert:8
+phone_list_to_insert:sh ii4 p i2 n h e2
+original_phone_list:sil q iao2 d a1 n d e5 sh u1 j i2 iou3 sh e2 n m e5 sp
+inserted_phone_list:sil q iao2 d a1 n d e5 sh ii4 p i2 n h e2 sh u1 j i2 iou3 sh e2 n m e5 sp
+original_duration_list:27 5 3 8 4 3 4 4 9 8 6 7 11 10 3 2 6 21 25
+duration_list_to_insert:9 8 7 5 15 8 13
+frame_index_to_separate:44 frame_num:231

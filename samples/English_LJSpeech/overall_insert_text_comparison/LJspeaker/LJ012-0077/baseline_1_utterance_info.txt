@@ -1,0 +1,13 @@
+original_text:and the thieves seem to have had no difficulty in disposing of their spoil.
+text_to_insert:in this case
+speaker:LJspeaker
+word_location_to_insert:3
+original_word_list:and the thieves seem to have had no difficulty in disposing of their spoil
+inserted_word_list:and the thieves in this case seem to have had no difficulty in disposing of their spoil
+phone_location_to_insert:11
+phone_list_to_insert:IH0 N DH IH1 S K EY1 S
+original_phone_list:sil AE1 N D DH AH1 TH IY1 V Z sp S IY1 M T IH0 sp HH AE1 V HH AE1 D N OW1 D IH1 F AH0 K AH0 L T IY0 IH1 N D IH0 S P OW1 Z IH0 NG AH0 V DH EH1 R S P OY1 L sp
+inserted_phone_list:sil AE1 N D DH AH1 TH IY1 V Z sp IH0 N DH IH1 S K EY1 S S IY1 M T IH0 sp HH AE1 V HH AE1 D N OW1 D IH1 F AH0 K AH0 L T IY0 IH1 N D IH0 S P OW1 Z IH0 NG AH0 V DH EH1 R S P OY1 L sp
+original_duration_list:11 32 8 3 2 6 8 16 5 7 2 15 12 6 4 6 7 16 4 4 7 6 8 7 14 6 4 8 6 4 7 8 8 11 3 4 5 4 11 8 10 9 4 7 5 7 3 3 9 12 7 20 17 4
+predicted_inserted_duration_list:8 12 4 2 2 4 11 18 6 11 4 7 6 2 5 9 7 9 10 9 11 6 6 11 9 8 4 4 5 6 7 7 11 6 3 7 4 4 4 7 7 14 5 3 4 4 10 7 12 6 4 6 4 6 3 7 6 12 8 13 15 4
+frame_index_to_separate:325 frame_num"436

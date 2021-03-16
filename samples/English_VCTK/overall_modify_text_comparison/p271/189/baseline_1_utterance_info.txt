@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/VCTK/p271/p271_189.wav
+original_text:And she is a successful actor with three decades of experience.
+text_to_replace:about thirty years
+speaker:p271
+word_modify_location_start:7
+word_modify_location_end:8
+original_word_list:and she is a successful actor with three decades of experience
+modified_word_list:and she is a successful actor with about thirty years of experience
+phone_modify_location_start:26
+phone_modify_location_end:34
+phone_list_to_replace:AH0 B AW1 T TH ER1 D IY0 Y IH1 R Z
+original_phone_list:sil AH0 N D SH IY1 IH0 Z AH0 S AH0 K S EH1 S F AH0 L AE1 K T ER0 sp W IH1 DH TH R IY1 D EH1 K EY0 D Z AH1 V IH0 K S P IH1 R IY0 AH0 N S sp
+modified_phone_list:sil AH0 N D SH IY1 IH0 Z AH0 S AH0 K S EH1 S F AH0 L AE1 K T ER0 sp W IH1 DH AH0 B AW1 T TH ER1 D IY0 Y IH1 R Z AH1 V IH0 K S P IH1 R IY0 AH0 N S sp
+original_duration_list:81 10 3 5 9 18 7 6 9 8 6 4 8 10 8 2 5 8 16 4 7 29 27 13 9 3 33 8 17 9 10 9 9 5 9 19 7 4 3 5 4 7 8 4 2 6 12 11
+predicted_modified_duration_list:53 10 3 4 7 5 4 5 6 6 5 5 6 7 6 4 4 6 8 7 6 12 6 6 3 4 4 5 8 4 9 10 5 7 5 7 5 7 5 5 4 5 6 4 7 5 5 5 9 15 29
+frame_index_to_separate:115 frame_num:378

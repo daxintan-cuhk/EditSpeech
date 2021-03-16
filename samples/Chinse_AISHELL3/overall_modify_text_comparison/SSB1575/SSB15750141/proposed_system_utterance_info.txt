@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/AISHELL3/SSB1575/SSB15750141.wav
+original_text:考虑辞职去看客场比赛吧
+text_to_replace:世界杯足球
+speaker:SSB1575
+word_modify_location_start:6
+word_modify_location_end:7
+original_word_list:kao3 lv4 ci2 zhi2 qu4 kan4 ke4 chang3 bi3 sai4 ba5
+modified_word_list:kao3 lv4 ci2 zhi2 qu4 kan4 世界杯足球 bi3 sai4 ba5
+phone_modify_location_start:14
+phone_modify_location_end:18
+phone_list_to_replace:sh ii4 j ie4 b ei1 z u2 q iu2
+original_phone_list:sil k ao3 l v4 c ii2 zh ii2 q v4 k a4 n k e4 ch a3 ng b i3 s ai4 b a5 sp
+modified_phone_list:sil k ao3 l v4 c ii2 zh ii2 q v4 k a4 n sh ii4 j ie4 b ei1 z u2 q iu2 b i3 s ai4 b a5 sp
+original_duration_list:18 12 7 6 10 17 10 4 7 11 7 9 5 5 12 5 10 4 6 6 8 9 11 6 12 19
+overall_modified_duration_list:18 12 7 6 10 17 10 4 7 11 7 9 5 5 6 5 5 8 6 10 6 6 7 8 6 8 9 11 6 12 19
+frame_index_to_separate:172 frame_num:266

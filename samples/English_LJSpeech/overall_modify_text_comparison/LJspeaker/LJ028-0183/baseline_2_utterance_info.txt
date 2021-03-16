@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/LJSpeech/LJ028-0183.wav
+original_text:Cyrus, the King of Persia, was rising to power, and after he had defeated the Medes
+text_to_replace:becoming rich and famous
+speaker:LJspeaker
+word_modify_location_start:6
+word_modify_location_end:8
+original_word_list:cyrus the king of persia was rising to power and after he had defeated the medes
+modified_word_list:cyrus the king of persia was becoming rich and famous and after he had defeated the medes
+phone_modify_location_start:20
+phone_modify_location_end:29
+original_phone_list:S AY1 R AH0 S DH IY0 K IH1 NG AH1 V P ER1 ZH AH0 sp W AH0 Z R AY1 Z IH0 NG T UW1 P AW1 ER0 sp AE1 N D AE1 F T ER0 HH IY1 HH AE1 D D IH0 F IY1 T IH0 D DH AH0 sp M IY1 D Z sp
+modified_phone_list:S AY1 R AH0 S DH IY0 K IH1 NG AH1 V P ER1 ZH AH0 sp W AH0 Z B IH0 K AH1 M IH0 NG R IH1 CH AH0 N D F EY1 M AH0 S sp AE1 N D AE1 F T ER0 HH IY1 HH AE1 D D IH0 F IY1 T IH0 D DH AH0 sp M IY1 D Z sp
+original_duration_list:16 13 8 10 9 5 5 8 3 9 2 12 7 13 6 24 20 15 3 8 11 14 6 3 7 5 5 11 21 19 26 7 5 6 19 6 5 4 6 9 7 5 6 3 5 11 10 6 4 9 3 7 3 3 25 4 17 3
+phone_list_to_replace:B IH0 K AH1 M IH0 NG R IH1 CH AH0 N D F EY1 M AH0 S
+duration_list_to_replace:2 4 8 6 5 4 9 5 6 8 4 4 5 9 11 4 9 21
+frame_index_to_separate:75 frame_num:544

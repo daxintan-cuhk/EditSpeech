@@ -1,0 +1,13 @@
+original_text:I am totally devoted to this job.
+text_to_insert:interested in and
+speaker:p273
+word_location_to_insert:3
+original_word_list:i am totally devoted to this job
+inserted_word_list:i am totally interested in and devoted to this job
+phone_location_to_insert:10
+phone_list_to_insert:IH1 N T R AH0 S T AH0 D IH0 N AH0 N D
+original_phone_list:sil AY1 AE1 M T OW1 T AH0 L IY0 D IH0 V OW1 T IH0 D T UW1 DH IH0 S JH OW1 B sp
+inserted_phone_list:sil AY1 AE1 M T OW1 T AH0 L IY0 IH1 N T R AH0 S T AH0 D IH0 N AH0 N D D IH0 V OW1 T IH0 D T UW1 DH IH0 S JH OW1 B sp
+original_duration_list:63 14 5 7 12 4 7 3 4 5 7 3 6 7 9 5 4 6 3 4 6 4 10 8 16 7
+duration_list_to_insert:5 4 4 3 4 4 4 4 4 4 4 5 5 7
+frame_index_to_separate:35 frame_num:290

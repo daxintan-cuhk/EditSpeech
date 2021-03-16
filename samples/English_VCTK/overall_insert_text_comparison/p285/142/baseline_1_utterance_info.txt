@@ -1,0 +1,13 @@
+original_text:Initial reports said the aircraft had experienced a loss of power.
+text_to_insert:launched last year
+speaker:p285
+word_location_to_insert:5
+original_word_list:initial reports said the aircraft had experienced a loss of power
+inserted_word_list:initial reports said the aircraft launched last year had experienced a loss of power
+phone_location_to_insert:26
+phone_list_to_insert:L AO1 N CH T L AE1 S T Y IH1 R
+original_phone_list:sil IH0 N IH1 SH AH0 L R IH0 P AO1 R T S S EH1 D DH IY0 EH1 R K R AE2 F T HH AE1 D IH0 K S P IH1 R IY0 AH0 N S T AH0 L AO1 S AH0 V P AW1 ER0 sp
+inserted_phone_list:sil IH0 N IH1 SH AH0 L R IH0 P AO1 R T S S EH1 D DH IY0 EH1 R K R AE2 F T L AO1 N CH T L AE1 S T Y IH1 R HH AE1 D IH0 K S P IH1 R IY0 AH0 N S T AH0 L AO1 S AH0 V P AW1 ER0 sp
+original_duration_list:70 10 4 7 9 3 3 3 5 7 9 3 4 4 6 6 4 5 6 4 5 6 4 8 5 3 3 3 4 5 4 5 4 6 3 3 2 4 6 4 6 5 6 9 2 5 8 10 15 28
+predicted_inserted_duration_list:53 8 4 6 7 4 4 4 4 9 6 5 3 3 7 6 4 3 6 6 5 8 4 7 5 3 4 6 5 6 4 4 8 6 4 3 6 4 5 4 5 4 5 5 5 6 4 4 3 4 4 3 4 5 7 7 3 4 7 10 16 28
+frame_index_to_separate:178 frame_num"396

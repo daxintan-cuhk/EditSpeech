@@ -1,0 +1,17 @@
+original_text:The parties include the Scottish Executive.
+speaker:p270
+word_delete_location_start:4
+word_delete_location_end:4
+word_buffer_size:1
+text_to_replace:the executive
+word_modify_location_start:3
+word_modify_location_end:5
+original_word_list:the parties include the scottish executive
+modified_word_list:the parties include the executive
+phone_modify_location_start:17
+phone_modify_location_end:35
+original_phone_list:sil DH AH0 sp P AA1 R T IY0 Z IH0 N K L UW1 D sp DH IY0 sp S K AA1 T IH0 SH IH0 G Z EH1 K Y AH0 T IH0 V sp
+modified_phone_list:sil DH AH0 sp P AA1 R T IY0 Z IH0 N K L UW1 D sp DH AH0 IH0 G Z EH1 K Y AH0 T IH0 V sp
+original_duration_list:58 5 7 6 11 8 5 8 6 8 3 6 12 4 19 11 4 9 5 10 9 7 5 9 4 8 4 4 6 10 6 3 2 10 8 18 72
+overall_inserted_duration_list:58 5 7 6 11 8 5 8 6 8 3 6 12 4 19 11 4 7 6 5 6 8 9 10 3 4 8 10 20 72
+frame_index_to_separate:185 frame_num:349

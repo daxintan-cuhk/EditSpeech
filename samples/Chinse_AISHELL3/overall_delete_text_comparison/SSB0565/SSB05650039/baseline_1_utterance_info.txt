@@ -1,0 +1,17 @@
+original_text:现在我们仍没解除核原料的威胁
+speaker:SSB0565
+word_delete_location_start:4
+word_delete_location_end:5
+word_buffer_size:1
+text_to_replace:men5 jie3
+word_modify_location_start:3
+word_modify_location_end:6
+original_word_list:xian4 zai4 wo3 men5 reng2 mei2 jie3 chu2 he2 yuan2 liao4 de5 wei1 xie2
+modified_word_list:xian4 zai4 wo3 men5 jie3 chu2 he2 yuan2 liao4 de5 wei1 xie2
+phone_modify_location_start:7
+phone_modify_location_end:16
+original_phone_list:sil x ia4 n z ai4 uo3 m e5 n r e2 ng m ei2 j ie3 ch u2 h e2 va2 n l iao4 sp d e5 uei1 x ie2 sp
+modified_phone_list:sil x ia4 n z ai4 uo3 m e5 n sp j ie3 ch u2 h e2 va2 n l iao4 sp d e5 uei1 x ie2 sp
+original_duration_list:23 5 5 5 4 7 7 6 7 3 6 6 3 3 10 5 12 8 8 13 7 9 12 5 23 3 2 22 18 12 14 38
+predicted_modified_duration_list:25 9 7 6 4 12 11 5 5 10 5 6 12 11 8 9 8 12 6 4 12 3 3 6 14 12 15 33
+frame_index_to_separate:253 frame_num:273

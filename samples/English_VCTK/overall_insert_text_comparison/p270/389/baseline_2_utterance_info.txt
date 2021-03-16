@@ -1,0 +1,13 @@
+original_text:The parties include the Scottish Executive.
+text_to_insert:found recently
+speaker:p270
+word_location_to_insert:2
+original_word_list:the parties include the scottish executive
+inserted_word_list:the parties found recently include the scottish executive
+phone_location_to_insert:10
+phone_list_to_insert:F AW1 N D R IY1 S AH0 N T L IY0
+original_phone_list:sil DH AH0 sp P AA1 R T IY0 Z IH0 N K L UW1 D sp DH IY0 sp S K AA1 T IH0 SH IH0 G Z EH1 K Y AH0 T IH0 V sp
+inserted_phone_list:sil DH AH0 sp P AA1 R T IY0 Z F AW1 N D R IY1 S AH0 N T L IY0 IH0 N K L UW1 D sp DH IY0 sp S K AA1 T IH0 SH IH0 G Z EH1 K Y AH0 T IH0 V sp
+original_duration_list:58 5 7 6 11 8 5 8 6 8 3 6 12 4 19 11 4 9 5 10 9 7 5 9 4 8 4 4 6 10 6 3 2 10 8 18 72
+duration_list_to_insert:9 9 4 4 4 6 7 3 3 3 7 10
+frame_index_to_separate:46 frame_num:459

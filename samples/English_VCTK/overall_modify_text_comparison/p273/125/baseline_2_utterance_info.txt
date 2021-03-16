@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/VCTK/p273/p273_125.wav
+original_text:I am totally devoted to this job.
+text_to_replace:fall in love with
+speaker:p273
+word_modify_location_start:3
+word_modify_location_end:4
+original_word_list:i am totally devoted to this job
+modified_word_list:i am totally fall in love with this job
+phone_modify_location_start:10
+phone_modify_location_end:18
+original_phone_list:sil AY1 AE1 M T OW1 T AH0 L IY0 D IH0 V OW1 T IH0 D T UW1 DH IH0 S JH OW1 B sp
+modified_phone_list:sil AY1 AE1 M T OW1 T AH0 L IY0 F AO1 L IH0 N L AH1 V W IH1 DH DH IH0 S JH OW1 B sp
+original_duration_list:63 14 5 7 12 4 7 3 4 5 7 3 6 7 9 5 4 6 3 4 6 4 10 8 16 7
+phone_list_to_replace:F AO1 L IH0 N L AH1 V W IH1 DH
+duration_list_to_replace:11 7 5 4 4 4 5 6 5 8 10
+frame_index_to_separate:44 frame_num:248

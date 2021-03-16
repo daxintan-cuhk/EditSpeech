@@ -1,0 +1,13 @@
+original_text:You should always be able to get out in some direction.
+text_to_insert:take courage and
+speaker:p276
+word_location_to_insert:6
+original_word_list:you should always be able to get out in some direction
+inserted_word_list:you should always be able to take courage and get out in some direction
+phone_location_to_insert:19
+phone_list_to_insert:T EY1 K K ER1 AH0 JH AH0 N D
+original_phone_list:sil Y UW1 SH UH1 D AO1 L W EY2 Z B IY1 EY1 B AH0 L T IH0 G EH1 T AW1 T IH0 N S AH1 M D AY0 R EH1 K SH IH0 N sp
+inserted_phone_list:sil Y UW1 SH UH1 D AO1 L W EY2 Z B IY1 EY1 B AH0 L T IH0 T EY1 K K ER1 AH0 JH AH0 N D G EH1 T AW1 T IH0 N S AH1 M D AY0 R EH1 K SH IH0 N sp
+original_duration_list:78 11 3 8 2 8 6 3 5 7 7 5 7 11 5 3 5 7 4 6 8 10 12 11 3 7 10 5 7 5 8 6 6 9 7 4 14 47
+duration_list_to_insert:8 7 6 8 9 6 7 4 5 6
+frame_index_to_separate:48 frame_num:436

@@ -1,0 +1,15 @@
+original_text:来一首音乐童话
+speaker:SSB0623
+word_delete_location_start:2
+word_delete_location_end:4
+word_buffer_size:1
+text_to_replace:
+word_modify_location_start:2
+word_modify_location_end:4
+original_word_list:lai2 yi1 shou3 yin1 yue4 tong2 hua4
+modified_word_list:lai2 yi1  tong2 hua4
+phone_modify_location_start:4
+phone_modify_location_end:8
+original_phone_list:sil l ai2 i1 sh ou3 i1 n ve4 sp t o2 ng h ua4 sp
+modified_phone_list:sil l ai2 i1 sp t o2 ng h ua4 sp
+original_duration_list:9 11 13 5 6 12 3 10 25 2 8 4 8 5 18 28

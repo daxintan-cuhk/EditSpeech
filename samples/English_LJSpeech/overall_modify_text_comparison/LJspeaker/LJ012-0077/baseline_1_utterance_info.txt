@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/LJSpeech/LJ012-0077.wav
+original_text:and the thieves seem to have had no difficulty in disposing of their spoil.
+text_to_replace:many probelm
+speaker:LJspeaker
+word_modify_location_start:7
+word_modify_location_end:8
+original_word_list:and the thieves seem to have had no difficulty in disposing of their spoil
+modified_word_list:and the thieves seem to have had many probelm in disposing of their spoil
+phone_modify_location_start:23
+phone_modify_location_end:33
+phone_list_to_replace:M EH1 N IY0 P R OW1 B AH0 L M
+original_phone_list:sil AE1 N D DH AH1 TH IY1 V Z sp S IY1 M T IH0 sp HH AE1 V HH AE1 D N OW1 D IH1 F AH0 K AH0 L T IY0 IH1 N D IH0 S P OW1 Z IH0 NG AH0 V DH EH1 R S P OY1 L sp
+modified_phone_list:sil AE1 N D DH AH1 TH IY1 V Z sp S IY1 M T IH0 sp HH AE1 V HH AE1 D M EH1 N IY0 P R OW1 B AH0 L M IH1 N D IH0 S P OW1 Z IH0 NG AH0 V DH EH1 R S P OY1 L sp
+original_duration_list:11 32 8 3 2 6 8 16 5 7 2 15 12 6 4 6 7 16 4 4 7 6 8 7 14 6 4 8 6 4 7 8 8 11 3 4 5 4 11 8 10 9 4 7 5 7 3 3 9 12 7 20 17 4
+predicted_modified_duration_list:8 12 4 2 2 4 11 16 6 11 3 16 11 6 6 11 9 7 3 4 5 6 6 4 5 3 8 9 5 8 3 3 8 7 5 3 4 4 10 6 12 6 4 6 4 6 3 7 6 13 8 13 15 4
+frame_index_to_separate:259 frame_num:371

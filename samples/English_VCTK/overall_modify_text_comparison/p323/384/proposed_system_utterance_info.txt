@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/VCTK/p323/p323_384.wav
+original_text:The idea has potential for the future.
+text_to_replace:severe influence
+speaker:p323
+word_modify_location_start:3
+word_modify_location_end:3
+original_word_list:the idea has potential for the future
+modified_word_list:the idea has severe influence for the future
+phone_modify_location_start:11
+phone_modify_location_end:18
+phone_list_to_replace:S AH0 V IH1 R IH1 N F L UW0 AH0 N S
+original_phone_list:sil DH AH0 AY0 D IY1 AH0 HH AE1 Z sp P AH0 T EH1 N SH AH0 L F ER0 DH AH0 F Y UW1 CH ER0 sp
+modified_phone_list:sil DH AH0 AY0 D IY1 AH0 HH AE1 Z sp S AH0 V IH1 R IH1 N F L UW0 AH0 N S F ER0 DH AH0 F Y UW1 CH ER0 sp
+original_duration_list:67 8 6 16 5 4 3 3 19 6 2 5 5 18 9 5 9 9 10 7 4 4 6 10 9 6 13 23 7
+overall_modified_duration_list:67 8 6 16 5 4 3 3 19 6 2 8 4 5 6 5 5 6 7 3 4 4 5 6 7 4 4 6 10 9 6 13 23 7
+frame_index_to_separate:144 frame_num:296

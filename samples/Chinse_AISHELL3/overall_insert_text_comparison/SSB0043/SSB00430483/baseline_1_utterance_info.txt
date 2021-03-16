@@ -1,0 +1,13 @@
+original_text:你也不是非说不可
+text_to_insert:口头上
+speaker:SSB0043
+word_location_to_insert:4
+original_word_list:ni3 ye3 bu2 shi4 fei1 shuo1 bu4 ke3
+inserted_word_list:ni3 ye3 bu2 shi4 口头上 fei1 shuo1 bu4 ke3
+phone_location_to_insert:8
+phone_list_to_insert:k ou3 t ou2 sh a4 ng
+original_phone_list:sil n i3 ie3 b u2 sh ii4 f ei1 sh uo1 b u4 k e3 sp
+inserted_phone_list:sil n i3 ie3 b u2 sh ii4 k ou3 t ou2 sh a4 ng f ei1 sh uo1 b u4 k e3 sp
+original_duration_list:11 6 6 12 8 7 7 12 6 7 7 8 13 9 12 18 24
+predicted_inserted_duration_list:22 6 8 12 6 5 8 7 8 10 6 10 7 8 5 5 8 9 8 8 5 12 14 33
+frame_index_to_separate:180 frame_num"230

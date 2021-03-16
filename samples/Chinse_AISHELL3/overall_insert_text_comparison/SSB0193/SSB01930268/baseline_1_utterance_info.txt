@@ -1,0 +1,13 @@
+original_text:政府将橙色预警升至红色预警
+text_to_insert:昨天的
+speaker:SSB0193
+word_location_to_insert:3
+original_word_list:zheng4 fu3 jiang1 cheng2 se4 yu4 jing3 sheng1 zhi4 hong2 se4 yu4 jing3
+inserted_word_list:zheng4 fu3 jiang1 昨天的 cheng2 se4 yu4 jing3 sheng1 zhi4 hong2 se4 yu4 jing3
+phone_location_to_insert:9
+phone_list_to_insert:z uo2 t ia1 n d e5
+original_phone_list:sil zh e4 ng f u3 j ia1 ng ch e2 ng s e4 v4 j i3 ng sh e1 ng zh ii4 h o2 ng s e4 v4 j i3 ng sp
+inserted_phone_list:sil zh e4 ng f u3 j ia1 ng z uo2 t ia1 n d e5 ch e2 ng s e4 v4 j i3 ng sh e1 ng zh ii4 h o2 ng s e4 v4 j i3 ng sp
+original_duration_list:19 8 10 5 3 10 7 7 6 6 5 4 8 9 12 9 5 5 9 6 4 6 11 4 3 7 10 9 14 9 8 8 22
+predicted_inserted_duration_list:27 6 7 5 6 8 7 8 8 5 8 8 6 5 3 8 8 5 6 8 12 15 7 4 7 7 7 7 5 9 9 4 7 9 11 14 8 5 15 29
+frame_index_to_separate:325 frame_num"343

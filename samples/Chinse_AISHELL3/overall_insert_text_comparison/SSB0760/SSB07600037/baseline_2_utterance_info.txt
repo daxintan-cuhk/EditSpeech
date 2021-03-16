@@ -1,0 +1,13 @@
+original_text:卡瑞娜甚至可能杀了我的搭档
+text_to_insert:不择手段
+speaker:SSB0760
+word_location_to_insert:7
+original_word_list:ka3 rui4 na4 shen4 zhi4 ke3 neng2 sha1 le5 wo3 de5 da1 dang4
+inserted_word_list:ka3 rui4 na4 shen4 zhi4 ke3 neng2 不择手段 sha1 le5 wo3 de5 da1 dang4
+phone_location_to_insert:17
+phone_list_to_insert:b u4 z e2 sh ou3 d ua4 n
+original_phone_list:sil k a3 r uei4 n a4 sh e4 n zh ii4 k e3 n e2 ng sh a1 l e5 uo3 d e5 d a1 d a4 ng sp
+inserted_phone_list:sil k a3 r uei4 n a4 sh e4 n zh ii4 k e3 n e2 ng b u4 z e2 sh ou3 d ua4 n sh a1 l e5 uo3 d e5 d a1 d a4 ng sp
+original_duration_list:20 12 6 10 11 5 14 14 3 7 4 7 9 3 5 3 4 8 9 5 8 7 7 4 6 10 10 7 22 28
+duration_list_to_insert:5 8 6 10 9 10 6 10 34
+frame_index_to_separate:1 frame_num:366

@@ -1,0 +1,13 @@
+original_text:For that reason cover should not be given.
+text_to_insert:theoretical and realistic
+speaker:p243
+word_location_to_insert:2
+original_word_list:for that reason cover should not be given
+inserted_word_list:for that theoretical and realistic reason cover should not be given
+phone_location_to_insert:7
+phone_list_to_insert:TH IY2 ER0 EH1 T IH0 K AH0 L AH0 N D R IY2 AH0 L IH1 S T IH0 K
+original_phone_list:sil F ER0 sp DH AE1 T R IY1 Z AH0 N sp K AH1 V ER0 SH UH1 D N AA1 T B IY1 G IH1 V AH0 N sp
+inserted_phone_list:sil F ER0 sp DH AE1 T TH IY2 ER0 EH1 T IH0 K AH0 L AH0 N D R IY2 AH0 L IH1 S T IH0 K R IY1 Z AH0 N sp K AH1 V ER0 SH UH1 D N AA1 T B IY1 G IH1 V AH0 N sp
+original_duration_list:32 3 3 29 22 6 9 7 7 7 6 12 4 12 9 6 11 11 3 6 5 3 5 6 5 7 6 7 4 9 22
+overall_inserted_duration_list:32 3 3 29 22 6 9 7 6 8 6 6 4 5 4 4 4 3 5 4 4 5 4 5 6 4 4 7 7 7 7 6 12 4 12 9 6 11 11 3 6 5 3 5 6 5 7 6 7 4 9 22
+frame_index_to_separate:198 frame_num:389

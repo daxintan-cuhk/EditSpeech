@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/VCTK/p270/p270_389.wav
+original_text:The parties include the Scottish Executive.
+text_to_replace:English and American
+speaker:p270
+word_modify_location_start:4
+word_modify_location_end:4
+original_word_list:the parties include the scottish executive
+modified_word_list:the parties include the English and American executive
+phone_modify_location_start:20
+phone_modify_location_end:25
+phone_list_to_replace:IH1 NG G L IH0 SH AH0 N D AH0 M EH1 R AH0 K AH0 N
+original_phone_list:sil DH AH0 sp P AA1 R T IY0 Z IH0 N K L UW1 D sp DH IY0 sp S K AA1 T IH0 SH IH0 G Z EH1 K Y AH0 T IH0 V sp
+modified_phone_list:sil DH AH0 sp P AA1 R T IY0 Z IH0 N K L UW1 D sp DH IY0 sp IH1 NG G L IH0 SH AH0 N D AH0 M EH1 R AH0 K AH0 N IH0 G Z EH1 K Y AH0 T IH0 V sp
+original_duration_list:58 5 7 6 11 8 5 8 6 8 3 6 12 4 19 11 4 9 5 10 9 7 5 9 4 8 4 4 6 10 6 3 2 10 8 18 72
+predicted_modified_duration_list:53 5 3 18 12 6 4 5 6 6 3 4 8 4 9 6 4 6 10 4 7 7 3 3 5 7 3 3 3 5 6 5 5 4 5 3 3 4 4 6 6 7 3 3 6 7 15 25
+frame_index_to_separate:33 frame_num:339

@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/AISHELL3/SSB0784/SSB07840273.wav
+original_text:我们看起来像有病吗
+text_to_replace:富二代
+speaker:SSB0784
+word_modify_location_start:6
+word_modify_location_end:7
+original_word_list:wo3 men5 kan4 qi3 lai2 xiang4 you3 bing4 ma5
+modified_word_list:wo3 men5 kan4 qi3 lai2 xiang4 富二代 ma5
+phone_modify_location_start:15
+phone_modify_location_end:18
+original_phone_list:sil uo3 m e5 n k a4 n q i3 l ai2 x ia4 ng iou3 b i4 ng m a5 sp
+modified_phone_list:sil uo3 m e5 n k a4 n q i3 l ai2 x ia4 ng f u4 e4 r d ai4 m a5 sp
+original_duration_list:22 16 7 11 6 7 7 7 11 4 8 11 9 6 11 11 9 5 7 6 23 30
+phone_list_to_replace:f u4 e4 r d ai4
+duration_list_to_replace:9 5 7 9 5 18
+frame_index_to_separate:0 frame_num:255

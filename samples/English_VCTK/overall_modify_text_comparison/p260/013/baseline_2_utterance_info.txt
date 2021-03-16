@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/VCTK/p260/p260_013.wav
+original_text:Some have accepted it as a miracle without physical explanation. 
+text_to_replace:an undeniable fact
+speaker:p260
+word_modify_location_start:5
+word_modify_location_end:6
+original_word_list:some have accepted it as a miracle without physical explanation
+modified_word_list:some have accepted it as an undeniable fact without physical explanation
+phone_modify_location_start:19
+phone_modify_location_end:26
+original_phone_list:sil S AH1 M HH AE1 V AH0 K S EH1 P T AH0 D IH0 T AE1 Z AH0 M IH1 R AH0 K AH0 L W IH0 TH AW1 T F IH1 Z IH0 K AH0 L EH2 K S P L AH0 N EY1 SH AH0 N sp
+modified_phone_list:sil S AH1 M HH AE1 V AH0 K S EH1 P T AH0 D IH0 T AE1 Z AE1 N AH2 N D IH0 N AY1 AH0 B AH0 L F AE1 K T W IH0 TH AW1 T F IH1 Z IH0 K AH0 L EH2 K S P L AH0 N EY1 SH AH0 N sp
+original_duration_list:62 15 5 5 3 3 3 8 4 8 9 4 5 3 4 8 6 7 5 4 8 3 6 5 6 5 6 4 4 6 7 7 5 6 4 3 6 4 5 4 6 4 4 4 3 5 7 7 3 11 25
+phone_list_to_replace:AE1 N AH2 N D IH0 N AY1 AH0 B AH0 L F AE1 K T
+duration_list_to_replace:7 5 6 4 3 3 5 10 4 3 3 6 8 10 11 6
+frame_index_to_separate:62 frame_num:405

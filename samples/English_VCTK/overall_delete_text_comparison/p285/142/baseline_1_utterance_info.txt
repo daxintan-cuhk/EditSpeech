@@ -1,0 +1,17 @@
+original_text:Initial reports said the aircraft had experienced a loss of power.
+speaker:p285
+word_delete_location_start:5
+word_delete_location_end:9
+word_buffer_size:1
+text_to_replace:aircraft power
+word_modify_location_start:4
+word_modify_location_end:10
+original_word_list:initial reports said the aircraft had experienced a loss of power
+modified_word_list:initial reports said the aircraft power
+phone_modify_location_start:19
+phone_modify_location_end:48
+original_phone_list:sil IH0 N IH1 SH AH0 L R IH0 P AO1 R T S S EH1 D DH IY0 EH1 R K R AE2 F T HH AE1 D IH0 K S P IH1 R IY0 AH0 N S T AH0 L AO1 S AH0 V P AW1 ER0 sp
+modified_phone_list:sil IH0 N IH1 SH AH0 L R IH0 P AO1 R T S S EH1 D DH IY0 EH1 R K R AE2 F T P AW1 ER0 sp
+original_duration_list:70 10 4 7 9 3 3 3 5 7 9 3 4 4 6 6 4 5 6 4 5 6 4 8 5 3 3 3 4 5 4 5 4 6 3 3 2 4 6 4 6 5 6 9 2 5 8 10 15 28
+predicted_modified_duration_list:53 8 4 6 7 4 4 4 4 8 6 5 3 3 6 6 4 3 5 6 4 7 4 6 5 3 6 11 16 29
+frame_index_to_separate:239 frame_num:240

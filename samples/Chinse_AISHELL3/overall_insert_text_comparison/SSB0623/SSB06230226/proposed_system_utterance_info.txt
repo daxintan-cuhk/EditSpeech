@@ -1,0 +1,13 @@
+original_text:来一首音乐童话
+text_to_insert:最近流行的
+speaker:SSB0623
+word_location_to_insert:3
+original_word_list:lai2 yi1 shou3 yin1 yue4 tong2 hua4
+inserted_word_list:lai2 yi1 shou3 最近流行的 yin1 yue4 tong2 hua4
+phone_location_to_insert:6
+phone_list_to_insert:z uei4 j i4 n l iu2 x i2 ng d e5
+original_phone_list:sil l ai2 i1 sh ou3 i1 n ve4 sp t o2 ng h ua4 sp
+inserted_phone_list:sil l ai2 i1 sh ou3 z uei4 j i4 n l iu2 x i2 ng d e5 i1 n ve4 sp t o2 ng h ua4 sp
+original_duration_list:9 11 13 5 6 12 3 10 25 2 8 4 8 5 18 28
+overall_inserted_duration_list:9 11 13 5 6 12 6 9 6 5 5 3 8 7 3 5 3 7 3 10 25 2 8 4 8 5 18 28
+frame_index_to_separate:109 frame_num:234

@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/AISHELL3/SSB0193/SSB01930268.wav
+original_text:政府将橙色预警升至红色预警
+text_to_replace:二级标志
+speaker:SSB0193
+word_modify_location_start:3
+word_modify_location_end:6
+original_word_list:zheng4 fu3 jiang1 cheng2 se4 yu4 jing3 sheng1 zhi4 hong2 se4 yu4 jing3
+modified_word_list:zheng4 fu3 jiang1 二级标志 sheng1 zhi4 hong2 se4 yu4 jing3
+phone_modify_location_start:9
+phone_modify_location_end:17
+original_phone_list:sil zh e4 ng f u3 j ia1 ng ch e2 ng s e4 v4 j i3 ng sh e1 ng zh ii4 h o2 ng s e4 v4 j i3 ng sp
+modified_phone_list:sil zh e4 ng f u3 j ia1 ng e4 r j i2 b iao1 zh ii4 sh e1 ng zh ii4 h o2 ng s e4 v4 j i3 ng sp
+original_duration_list:19 8 10 5 3 10 7 7 6 6 5 4 8 9 12 9 5 5 9 6 4 6 11 4 3 7 10 9 14 9 8 8 22
+phone_list_to_replace:e4 r j i2 b iao1 zh ii4
+duration_list_to_replace:6 8 6 7 6 16 9 18
+frame_index_to_separate:29 frame_num:281

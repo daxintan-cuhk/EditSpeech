@@ -1,0 +1,17 @@
+original_text:今天就让我们掌管复活节工厂吧
+speaker:SSB1219
+word_delete_location_start:8
+word_delete_location_end:10
+word_buffer_size:1
+text_to_replace:guan3 gong1
+word_modify_location_start:7
+word_modify_location_end:11
+original_word_list:jin1 tian1 jiu4 rang4 wo3 men5 zhang3 guan3 fu4 huo2 jie2 gong1 chang3 ba5
+modified_word_list:jin1 tian1 jiu4 rang4 wo3 men5 zhang3 guan3 gong1 chang3 ba5
+phone_modify_location_start:19
+phone_modify_location_end:30
+original_phone_list:sil j i1 n t ia1 n j iu4 r a4 ng uo3 m e5 n zh a3 ng g ua3 n f u4 h uo2 j ie2 g o1 ng ch a3 ng b a5 sp
+modified_phone_list:sil j i1 n t ia1 n j iu4 r a4 ng uo3 m e5 n zh a3 ng g ua3 n sp g o1 ng ch a3 ng b a5 sp
+original_duration_list:22 9 10 6 8 9 7 4 10 8 10 11 4 6 8 8 6 11 6 5 9 8 13 7 7 12 13 11 8 4 8 12 8 7 4 20 37
+overall_inserted_duration_list:22 9 10 6 8 9 7 4 10 8 10 11 4 6 8 8 6 11 6 5 8 10 4 4 5 7 12 8 7 4 20 37
+frame_index_to_separate:190 frame_num:294

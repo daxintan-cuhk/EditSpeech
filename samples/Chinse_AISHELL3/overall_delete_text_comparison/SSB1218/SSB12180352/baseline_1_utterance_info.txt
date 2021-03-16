@@ -1,0 +1,17 @@
+original_text:但是世锦赛毕竟是代表中国
+speaker:SSB1218
+word_delete_location_start:5
+word_delete_location_end:6
+word_buffer_size:1
+text_to_replace:sai4 shi4
+word_modify_location_start:4
+word_modify_location_end:7
+original_word_list:dan4 shi4 shi4 jin3 sai4 bi4 jing4 shi4 dai4 biao3 zhong1 guo2
+modified_word_list:dan4 shi4 shi4 jin3 sai4 shi4 dai4 biao3 zhong1 guo2
+phone_modify_location_start:12
+phone_modify_location_end:22
+original_phone_list:sil d a4 n sh ii4 sh ii4 j i3 n sp s ai4 sp b i4 j i4 ng sp sh ii4 sp d ai4 b iao3 zh o1 ng g uo2 sp
+modified_phone_list:sil d a4 n sh ii4 sh ii4 j i3 n sp s ai4 sp sh ii4 sp d ai4 b iao3 zh o1 ng g uo2 sp
+original_duration_list:44 4 7 5 9 16 9 13 12 6 12 3 10 24 4 5 10 6 7 9 5 11 21 15 7 8 6 11 10 5 9 8 18 46
+predicted_modified_duration_list:24 5 8 5 7 8 10 8 6 6 11 6 8 19 6 12 14 6 4 10 6 11 6 5 9 5 22 33
+frame_index_to_separate:23 frame_num:280

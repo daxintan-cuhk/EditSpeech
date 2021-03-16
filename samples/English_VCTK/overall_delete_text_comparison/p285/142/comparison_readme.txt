@@ -1,0 +1,1 @@
+The proposed system is to synthesize by partial inference from the buffer text with original deleted audio context. The baseline_1 system is to synthesized directly from the deleted text.The baseline 2 system is to synthesized from the buffer and concatenated to the original deleted audio.No baseline 3 is needed.

@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/LJSpeech/LJ009-0069.wav
+original_text:The ordinary observes him, looks to the sheriffs, and says aloud, 'The service for the dead!'
+text_to_replace:careless waiter
+speaker:LJspeaker
+word_modify_location_start:7
+word_modify_location_end:7
+original_word_list:the ordinary observes him looks to the sheriffs and says aloud the service for the dead
+modified_word_list:the ordinary observes him looks to the careless waiter and says aloud the service for the dead
+phone_modify_location_start:29
+phone_modify_location_end:34
+phone_list_to_replace:K EH1 R L AH0 S W EY1 T ER0
+original_phone_list:sil DH IY0 AO1 R D AH0 N EH2 R IY0 AH0 B Z ER1 V Z HH IH1 M sp L UH1 K S T AH0 DH AH0 SH EH1 R AH0 F S AH0 N D S EH1 Z AH0 L AW1 D sp DH AH0 S ER1 V AH0 S F AO1 R DH IY0 D EH1 D sp
+modified_phone_list:sil DH IY0 AO1 R D AH0 N EH2 R IY0 AH0 B Z ER1 V Z HH IH1 M sp L UH1 K S T AH0 DH AH0 K EH1 R L AH0 S W EY1 T ER0 AH0 N D S EH1 Z AH0 L AW1 D sp DH AH0 S ER1 V AH0 S F AO1 R DH IY0 D EH1 D sp
+original_duration_list:14 5 13 6 7 5 2 5 7 8 9 6 4 11 11 8 5 4 7 13 31 8 5 8 7 6 4 5 6 13 8 10 3 5 8 5 3 7 6 13 4 8 7 23 9 37 7 4 17 9 6 6 11 7 3 6 4 6 12 18 15 6
+overall_modified_duration_list:14 5 13 6 7 5 2 5 7 8 9 6 4 11 11 8 5 4 7 13 31 8 5 8 7 6 4 5 6 11 8 6 6 6 9 8 10 8 9 5 3 7 6 13 4 8 7 23 9 37 7 4 17 9 6 6 11 7 3 6 4 6 12 18 15 6
+frame_index_to_separate:275 frame_num:570

@@ -1,0 +1,13 @@
+original_text:因此今年整体的市场格局难以发生根本性变化
+text_to_insert:股票和房地产
+speaker:SSB0599
+word_location_to_insert:7
+original_word_list:yin1 ci3 jin1 nian2 zheng3 ti3 de5 shi4 chang3 ge2 ju2 nan2 yi3 fa1 sheng1 gen1 ben3 xing4 bian4 hua4
+inserted_word_list:yin1 ci3 jin1 nian2 zheng3 ti3 de5 股票和房地产 shi4 chang3 ge2 ju2 nan2 yi3 fa1 sheng1 gen1 ben3 xing4 bian4 hua4
+phone_location_to_insert:19
+phone_list_to_insert:g u3 p iao4 h e2 f a2 ng d i4 ch a3 n
+original_phone_list:sil i1 n c ii3 sp j i1 n n ia2 n zh e3 ng t i3 d e5 sh ii4 ch a3 ng g e2 j v2 n a2 n i3 f a1 sh e1 ng sp g e1 n b e3 n x i4 ng b ia4 n h ua4 sp
+inserted_phone_list:sil i1 n c ii3 sp j i1 n n ia2 n zh e3 ng t i3 d e5 g u3 p iao4 h e2 f a2 ng d i4 ch a3 n sh ii4 ch a3 ng g e2 j v2 n a2 n i3 f a1 sh e1 ng sp g e1 n b e3 n x i4 ng b ia4 n h ua4 sp
+original_duration_list:38 16 6 12 22 14 9 6 9 5 11 11 6 7 8 7 5 6 14 12 9 4 13 8 9 10 8 14 12 8 8 9 7 10 9 6 16 2 4 6 8 5 8 4 8 2 11 4 5 11 7 14 32
+predicted_inserted_duration_list:27 12 7 9 9 7 4 5 6 4 9 8 4 7 5 7 5 5 8 8 6 10 11 12 8 9 6 5 4 8 8 6 5 8 7 7 8 6 6 10 8 6 7 9 6 9 8 8 7 7 10 6 4 5 7 3 4 5 7 3 6 4 5 8 6 19 33
+frame_index_to_separate:21 frame_num"516

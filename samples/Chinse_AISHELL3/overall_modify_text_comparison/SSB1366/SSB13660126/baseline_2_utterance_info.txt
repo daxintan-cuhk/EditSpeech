@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/AISHELL3/SSB1366/SSB13660126.wav
+original_text:蔡少芬突然开始讲话
+text_to_replace:毛主席
+speaker:SSB1366
+word_modify_location_start:0
+word_modify_location_end:2
+original_word_list:cai4 shao3 fen1 tu1 ran2 kai1 shi3 jiang3 hua4
+modified_word_list:毛主席 tu1 ran2 kai1 shi3 jiang3 hua4
+phone_modify_location_start:1
+phone_modify_location_end:7
+original_phone_list:sil c ai4 sh ao3 f e1 n t u1 r a2 n k ai1 sh ii3 j ia3 ng h ua4 sp
+modified_phone_list:sil m ao2 zh u3 x i2 t u1 r a2 n k ai1 sh ii3 j ia3 ng h ua4 sp
+original_duration_list:33 17 10 8 6 9 11 8 9 7 4 13 3 9 8 15 3 4 6 10 8 20 39
+phone_list_to_replace:m ao2 zh u3 x i2
+duration_list_to_replace:6 11 6 10 11 14
+frame_index_to_separate:18 frame_num:249

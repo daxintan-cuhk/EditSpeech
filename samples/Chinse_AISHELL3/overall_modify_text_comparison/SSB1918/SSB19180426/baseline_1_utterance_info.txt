@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/AISHELL3/SSB1918/SSB19180426.wav
+original_text:乔丹的书籍有什么
+text_to_replace:文字资料
+speaker:SSB1918
+word_modify_location_start:3
+word_modify_location_end:4
+original_word_list:qiao2 dan1 de5 shu1 ji2 you3 shen2 me5
+modified_word_list:qiao2 dan1 de5 文字资料 you3 shen2 me5
+phone_modify_location_start:8
+phone_modify_location_end:11
+phone_list_to_replace:ue2 n z ii4 z ii1 l iao4
+original_phone_list:sil q iao2 d a1 n d e5 sh u1 j i2 iou3 sh e2 n m e5 sp
+modified_phone_list:sil q iao2 d a1 n d e5 ue2 n z ii4 z ii1 l iao4 iou3 sh e2 n m e5 sp
+original_duration_list:27 5 3 8 4 3 4 4 9 8 6 7 11 10 3 2 6 21 25
+predicted_modified_duration_list:21 8 10 6 6 5 3 7 9 7 5 9 6 6 6 14 10 10 3 3 5 15 30
+frame_index_to_separate:15 frame_num:204

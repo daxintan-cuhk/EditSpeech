@@ -1,0 +1,13 @@
+original_text:昨日就去看医生
+text_to_insert:三甲医院
+speaker:SSB1828
+word_location_to_insert:4
+original_word_list:zuo2 ri4 jiu4 qu4 kan4 yi1 sheng1
+inserted_word_list:zuo2 ri4 jiu4 qu4 三甲医院 kan4 yi1 sheng1
+phone_location_to_insert:9
+phone_list_to_insert:s a1 n j ia3 i1 va4 n
+original_phone_list:sil z uo2 r ii4 j iu4 q v4 k a4 n i1 sh e1 ng sp
+inserted_phone_list:sil z uo2 r ii4 j iu4 q v4 s a1 n j ia3 i1 va4 n k a4 n i1 sh e1 ng sp
+original_duration_list:13 21 12 10 9 5 10 7 5 9 6 12 6 9 9 19 25
+duration_list_to_insert:9 8 7 4 12 15 12 35
+frame_index_to_separate:101 frame_num:289

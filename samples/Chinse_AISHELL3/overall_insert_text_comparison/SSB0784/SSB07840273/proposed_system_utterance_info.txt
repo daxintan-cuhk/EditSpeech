@@ -1,0 +1,13 @@
+original_text:我们看起来像有病吗
+text_to_insert:真的
+speaker:SSB0784
+word_location_to_insert:5
+original_word_list:wo3 men5 kan4 qi3 lai2 xiang4 you3 bing4 ma5
+inserted_word_list:wo3 men5 kan4 qi3 lai2 真的 xiang4 you3 bing4 ma5
+phone_location_to_insert:12
+phone_list_to_insert:zh e1 n d e5
+original_phone_list:sil uo3 m e5 n k a4 n q i3 l ai2 x ia4 ng iou3 b i4 ng m a5 sp
+inserted_phone_list:sil uo3 m e5 n k a4 n q i3 l ai2 zh e1 n d e5 x ia4 ng iou3 b i4 ng m a5 sp
+original_duration_list:22 16 7 11 6 7 7 7 11 4 8 11 9 6 11 11 9 5 7 6 23 30
+overall_inserted_duration_list:22 16 7 11 6 7 7 7 11 4 8 11 7 4 5 3 7 9 6 11 11 9 5 7 6 23 30
+frame_index_to_separate:119 frame_num:260

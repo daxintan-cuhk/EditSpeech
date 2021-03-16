@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/VCTK/p276/p276_399.wav
+original_text:You should always be able to get out in some direction.
+text_to_replace:focus your research on
+speaker:p276
+word_modify_location_start:6
+word_modify_location_end:8
+original_word_list:you should always be able to get out in some direction
+modified_word_list:you should always be able to focus your research on some direction
+phone_modify_location_start:19
+phone_modify_location_end:25
+phone_list_to_replace:F OW1 K AH0 S Y AO1 R R IY0 S ER1 CH AA1 N
+original_phone_list:sil Y UW1 SH UH1 D AO1 L W EY2 Z B IY1 EY1 B AH0 L T IH0 G EH1 T AW1 T IH0 N S AH1 M D AY0 R EH1 K SH IH0 N sp
+modified_phone_list:sil Y UW1 SH UH1 D AO1 L W EY2 Z B IY1 EY1 B AH0 L T IH0 F OW1 K AH0 S Y AO1 R R IY0 S ER1 CH AA1 N S AH1 M D AY0 R EH1 K SH IH0 N sp
+original_duration_list:78 11 3 8 2 8 6 3 5 7 7 5 7 11 5 3 5 7 4 6 8 10 12 11 3 7 10 5 7 5 8 6 6 9 7 4 14 47
+predicted_modified_duration_list:53 10 4 7 3 5 8 4 5 6 6 5 7 7 4 3 4 5 4 8 6 7 5 8 4 4 5 4 5 9 8 9 5 6 7 4 4 5 6 6 6 7 7 6 10 31
+frame_index_to_separate:332 frame_num:342

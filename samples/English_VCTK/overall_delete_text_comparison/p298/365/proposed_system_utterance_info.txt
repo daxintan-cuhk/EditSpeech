@@ -1,0 +1,17 @@
+original_text:That kind of growth is the important thing.
+speaker:p298
+word_delete_location_start:1
+word_delete_location_end:2
+word_buffer_size:1
+text_to_replace:that growth
+word_modify_location_start:0
+word_modify_location_end:3
+original_word_list:that kind of growth is the important thing
+modified_word_list:that growth is the important thing
+phone_modify_location_start:1
+phone_modify_location_end:13
+original_phone_list:sil DH AE1 T K AY1 N D AH0 V G R OW1 TH IH1 Z DH IY0 IH0 M P AO1 R T AH0 N T TH IH1 NG sp
+modified_phone_list:sil DH AE1 T G R OW1 TH IH1 Z DH IY0 IH0 M P AO1 R T AH0 N T TH IH1 NG sp
+original_duration_list:80 7 5 7 7 8 3 2 5 2 8 10 8 7 9 4 6 3 4 4 5 5 6 7 4 3 3 7 5 9 76
+overall_inserted_duration_list:80 12 9 4 6 7 13 11 9 4 6 3 4 4 5 5 6 7 4 3 3 7 5 9 76
+frame_index_to_separate:82 frame_num:302

@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/LJSpeech/LJ017-0149.wav
+original_text:He had met her at a boarding-house, where he lived with his own wife, a person of "shady" antecedents,
+text_to_replace:bought for
+speaker:LJspeaker
+word_modify_location_start:10
+word_modify_location_end:11
+original_word_list:he had met her at a boarding house where he lived with his own wife a person of shady antecedents
+modified_word_list:he had met her at a boarding house where he bought for his own wife a person of shady antecedents
+phone_modify_location_start:30
+phone_modify_location_end:36
+original_phone_list:HH IY1 HH AE1 D sp M EH1 T HH ER0 AE1 T AH0 B AO1 R D IH0 NG HH AW1 S sp HH W EH1 R HH IY1 L IH1 V D W IH1 DH HH IH1 Z OW1 N W AY1 F sp AH0 P ER1 S AH0 N AH1 V sp SH EY1 D IY0 sp AE2 N T IH0 S IY1 D AH0 N T S
+modified_phone_list:HH IY1 HH AE1 D sp M EH1 T HH ER0 AE1 T AH0 B AO1 R D IH0 NG HH AW1 S sp HH W EH1 R HH IY1 B AA1 T F AO1 R HH IH1 Z OW1 N W AY1 F sp AH0 P ER1 S AH0 N AH1 V sp SH EY1 D IY0 sp AE2 N T IH0 S IY1 D AH0 N T S
+original_duration_list:3 8 5 3 6 3 6 8 4 6 15 5 4 5 12 10 5 4 4 5 8 22 34 2 4 2 6 5 4 9 9 7 5 6 4 5 3 3 6 16 17 5 10 18 17 21 12 8 8 9 4 5 10 10 3 22 16 4 19 3 11 6 6 3 15 11 5 7 6 5 19
+phone_list_to_replace:B AA1 T F AO1 R
+duration_list_to_replace:3 10 6 10 11 15
+frame_index_to_separate:26 frame_num:612

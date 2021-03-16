@@ -1,0 +1,13 @@
+original_text:The idea has potential for the future.
+text_to_insert:large economic
+speaker:p323
+word_location_to_insert:3
+original_word_list:the idea has potential for the future
+inserted_word_list:the idea has large economic potential for the future
+phone_location_to_insert:11
+phone_list_to_insert:L AA1 R JH EH2 K AH0 N AA1 M IH0 K
+original_phone_list:sil DH AH0 AY0 D IY1 AH0 HH AE1 Z sp P AH0 T EH1 N SH AH0 L F ER0 DH AH0 F Y UW1 CH ER0 sp
+inserted_phone_list:sil DH AH0 AY0 D IY1 AH0 HH AE1 Z sp L AA1 R JH EH2 K AH0 N AA1 M IH0 K P AH0 T EH1 N SH AH0 L F ER0 DH AH0 F Y UW1 CH ER0 sp
+original_duration_list:67 8 6 16 5 4 3 3 19 6 2 5 5 18 9 5 9 9 10 7 4 4 6 10 9 6 13 23 7
+overall_inserted_duration_list:67 8 6 16 5 4 3 3 19 6 2 8 7 5 9 5 7 4 5 7 5 4 5 5 5 18 9 5 9 9 10 7 4 4 6 10 9 6 13 23 7
+frame_index_to_separate:163 frame_num:369

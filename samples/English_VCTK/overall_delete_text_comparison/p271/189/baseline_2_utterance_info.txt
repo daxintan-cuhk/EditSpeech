@@ -1,0 +1,15 @@
+original_text:And she is a successful actor with three decades of experience.
+speaker:p271
+word_delete_location_start:7
+word_delete_location_end:9
+word_buffer_size:1
+text_to_replace:
+word_modify_location_start:7
+word_modify_location_end:9
+original_word_list:and she is a successful actor with three decades of experience
+modified_word_list:and she is a successful actor with  experience
+phone_modify_location_start:26
+phone_modify_location_end:36
+original_phone_list:sil AH0 N D SH IY1 IH0 Z AH0 S AH0 K S EH1 S F AH0 L AE1 K T ER0 sp W IH1 DH TH R IY1 D EH1 K EY0 D Z AH1 V IH0 K S P IH1 R IY0 AH0 N S sp
+modified_phone_list:sil AH0 N D SH IY1 IH0 Z AH0 S AH0 K S EH1 S F AH0 L AE1 K T ER0 sp W IH1 DH IH0 K S P IH1 R IY0 AH0 N S sp
+original_duration_list:81 10 3 5 9 18 7 6 9 8 6 4 8 10 8 2 5 8 16 4 7 29 27 13 9 3 33 8 17 9 10 9 9 5 9 19 7 4 3 5 4 7 8 4 2 6 12 11

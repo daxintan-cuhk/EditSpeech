@@ -1,0 +1,13 @@
+original_text:What do we want to do that for?
+text_to_insert:this afternoon
+speaker:p250
+word_location_to_insert:3
+original_word_list:what do we want to do that for
+inserted_word_list:what do we this afternoon want to do that for
+phone_location_to_insert:8
+phone_list_to_insert:DH IH1 S AE2 F T ER0 N UW1 N
+original_phone_list:sil W AH1 T D UW1 W IY1 W AA1 N T T IH0 D UW1 DH AE1 T F AO1 R sp
+inserted_phone_list:sil W AH1 T D UW1 W IY1 DH IH1 S AE2 F T ER0 N UW1 N W AA1 N T T IH0 D UW1 DH AE1 T F AO1 R sp
+original_duration_list:81 7 5 2 4 3 5 4 10 4 4 2 5 2 6 5 4 9 3 7 7 9 17
+overall_inserted_duration_list:81 7 5 2 4 3 5 4 4 5 8 8 5 4 4 5 7 4 10 4 4 2 5 2 6 5 4 9 3 7 7 9 17
+frame_index_to_separate:136 frame_num:259

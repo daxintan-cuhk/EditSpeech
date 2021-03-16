@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/AISHELL3/SSB1828/SSB18280450.wav
+original_text:昨日就去看医生
+text_to_replace:咨询
+speaker:SSB1828
+word_modify_location_start:4
+word_modify_location_end:4
+original_word_list:zuo2 ri4 jiu4 qu4 kan4 yi1 sheng1
+modified_word_list:zuo2 ri4 jiu4 qu4 咨询 yi1 sheng1
+phone_modify_location_start:9
+phone_modify_location_end:11
+phone_list_to_replace:z ii1 x v2 n
+original_phone_list:sil z uo2 r ii4 j iu4 q v4 k a4 n i1 sh e1 ng sp
+modified_phone_list:sil z uo2 r ii4 j iu4 q v4 z ii1 x v2 n i1 sh e1 ng sp
+original_duration_list:13 21 12 10 9 5 10 7 5 9 6 12 6 9 9 19 25
+overall_modified_duration_list:13 21 12 10 9 5 10 7 5 8 8 7 5 9 6 9 9 19 25
+frame_index_to_separate:114 frame_num:197

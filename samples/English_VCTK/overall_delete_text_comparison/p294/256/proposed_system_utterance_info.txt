@@ -1,0 +1,17 @@
+original_text:This would give Scotland around eight members.
+speaker:p294
+word_delete_location_start:4
+word_delete_location_end:4
+word_buffer_size:1
+text_to_replace:scotland eight
+word_modify_location_start:3
+word_modify_location_end:5
+original_word_list:this would give scotland around eight members
+modified_word_list:this would give scotland eight members
+phone_modify_location_start:10
+phone_modify_location_end:23
+original_phone_list:sil DH IH1 S W UH1 D G IH1 V S K AA1 T L AH0 N D ER0 AW1 N D EY1 T M EH1 M B ER0 Z sp
+modified_phone_list:sil DH IH1 S W UH1 D G IH1 V S K AA1 T L AH0 N D EY1 T M EH1 M B ER0 Z sp
+original_duration_list:81 6 7 6 3 6 3 3 8 3 5 6 6 3 8 5 5 13 9 9 3 7 12 2 6 5 3 4 10 16 36
+overall_inserted_duration_list:81 6 7 6 3 6 3 3 8 3 7 5 9 4 4 5 4 5 11 5 6 5 3 4 10 16 36
+frame_index_to_separate:176 frame_num:265

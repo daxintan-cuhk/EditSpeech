@@ -1,0 +1,15 @@
+original_text:The idea has potential for the future.
+speaker:p323
+word_delete_location_start:2
+word_delete_location_end:3
+word_buffer_size:1
+text_to_replace:
+word_modify_location_start:2
+word_modify_location_end:3
+original_word_list:the idea has potential for the future
+modified_word_list:the idea  for the future
+phone_modify_location_start:7
+phone_modify_location_end:18
+original_phone_list:sil DH AH0 AY0 D IY1 AH0 HH AE1 Z sp P AH0 T EH1 N SH AH0 L F ER0 DH AH0 F Y UW1 CH ER0 sp
+modified_phone_list:sil DH AH0 AY0 D IY1 AH0 F ER0 DH AH0 F Y UW1 CH ER0 sp
+original_duration_list:67 8 6 16 5 4 3 3 19 6 2 5 5 18 9 5 9 9 10 7 4 4 6 10 9 6 13 23 7

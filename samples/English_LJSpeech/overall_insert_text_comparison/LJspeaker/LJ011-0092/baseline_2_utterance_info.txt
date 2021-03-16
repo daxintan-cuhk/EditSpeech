@@ -1,0 +1,13 @@
+original_text:which it was asserted he had been in the habit of carrying about his person ever since he had taken to passing forged notes, as an antidote against disgrace.
+text_to_insert:for many years
+speaker:LJspeaker
+word_location_to_insert:7
+original_word_list:which it was asserted he had been in the habit of carrying about his person ever since he had taken to passing forged notes as an antidote against disgrace
+inserted_word_list:which it was asserted he had been for many years in the habit of carrying about his person ever since he had taken to passing forged notes as an antidote against disgrace
+phone_location_to_insert:22
+phone_list_to_insert:F AO1 R M EH1 N IY0 Y IH1 R Z
+original_phone_list:W IH1 CH IH1 T W AH1 Z AH0 S ER1 T AH0 D HH IY1 HH AE1 D B IH1 N IH1 N DH AH0 HH AE1 B AH0 T AH0 V K EH1 R IY0 IH0 NG AH0 B AW1 T HH IH1 Z sp P ER1 S AH0 N sp EH1 V ER0 S IH1 N S HH IY1 HH AE1 D T EY1 K AH0 N T IH0 P AE1 S IH0 NG F AO1 R JH D N OW1 T S sp AE1 Z AE1 N AE1 N T IH0 D OW2 T AH0 G EH1 N S T D IH0 S G R EY1 S
+inserted_phone_list:W IH1 CH IH1 T W AH1 Z AH0 S ER1 T AH0 D HH IY1 HH AE1 D B IH1 N F AO1 R M EH1 N IY0 Y IH1 R Z IH1 N DH AH0 HH AE1 B AH0 T AH0 V K EH1 R IY0 IH0 NG AH0 B AW1 T HH IH1 Z sp P ER1 S AH0 N sp EH1 V ER0 S IH1 N S HH IY1 HH AE1 D T EY1 K AH0 N T IH0 P AE1 S IH0 NG F AO1 R JH D N OW1 T S sp AE1 Z AE1 N AE1 N T IH0 D OW2 T AH0 G EH1 N S T D IH0 S G R EY1 S
+original_duration_list:3 7 6 3 6 7 5 5 7 16 10 5 6 4 10 6 5 4 6 4 6 6 3 4 3 3 8 10 3 4 5 3 8 10 11 4 10 5 6 3 4 11 5 3 4 8 3 6 10 11 7 14 27 13 6 7 10 6 6 4 5 7 5 3 8 8 8 6 6 5 4 8 8 11 10 4 7 15 8 6 10 6 11 15 8 15 16 13 7 4 13 13 5 7 3 9 13 12 4 8 5 8 7 3 5 4 12 9 9 15 28
+duration_list_to_insert:6 6 6 6 7 4 10 14 7 14 19
+frame_index_to_separate:95 frame_num:943

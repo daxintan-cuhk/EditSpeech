@@ -1,0 +1,13 @@
+original_text:In directing it, I shall recognize six fundamental principles:
+text_to_insert:finally manage to
+speaker:LJspeaker
+word_location_to_insert:5
+original_word_list:in directing it i shall recognize six fundamental principles
+inserted_word_list:in directing it i shall finally manage to recognize six fundamental principles
+phone_location_to_insert:17
+phone_list_to_insert:F AY1 N AH0 L IY0 M AE1 N AH0 JH T UW1
+original_phone_list:IH1 N D AY0 R EH1 K T IH0 NG IH0 T sp AY1 SH AE1 L R EH1 K AH0 G N AY2 Z sp S IH1 K S sp F AH2 N D AH0 M EH1 N T AH0 L P R IH1 N S AH0 P AH0 L Z sp
+inserted_phone_list:IH1 N D AY0 R EH1 K T IH0 NG IH0 T sp AY1 SH AE1 L F AY1 N AH0 L IY0 M AE1 N AH0 JH T UW1 R EH1 K AH0 G N AY2 Z sp S IH1 K S sp F AH2 N D AH0 M EH1 N T AH0 L P R IH1 N S AH0 P AH0 L Z sp
+original_duration_list:10 6 5 9 9 7 8 4 5 7 10 15 13 25 9 4 10 5 5 7 5 5 5 24 10 2 17 8 12 26 6 8 6 5 4 4 6 4 6 5 2 7 8 3 5 6 7 3 4 5 13 22 3
+duration_list_to_insert:7 11 3 4 6 5 8 12 4 9 10 12 15
+frame_index_to_separate:1 frame_num:535

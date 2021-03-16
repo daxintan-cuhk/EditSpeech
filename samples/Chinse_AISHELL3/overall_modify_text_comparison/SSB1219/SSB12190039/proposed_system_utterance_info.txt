@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/AISHELL3/SSB1219/SSB12190039.wav
+original_text:今天就让我们掌管复活节工厂吧
+text_to_replace:流水线
+speaker:SSB1219
+word_modify_location_start:8
+word_modify_location_end:10
+original_word_list:jin1 tian1 jiu4 rang4 wo3 men5 zhang3 guan3 fu4 huo2 jie2 gong1 chang3 ba5
+modified_word_list:jin1 tian1 jiu4 rang4 wo3 men5 zhang3 guan3 流水线 gong1 chang3 ba5
+phone_modify_location_start:22
+phone_modify_location_end:27
+phone_list_to_replace:l iu2 sh uei3 x ia4 n
+original_phone_list:sil j i1 n t ia1 n j iu4 r a4 ng uo3 m e5 n zh a3 ng g ua3 n f u4 h uo2 j ie2 g o1 ng ch a3 ng b a5 sp
+modified_phone_list:sil j i1 n t ia1 n j iu4 r a4 ng uo3 m e5 n zh a3 ng g ua3 n l iu2 sh uei3 x ia4 n g o1 ng ch a3 ng b a5 sp
+original_duration_list:22 9 10 6 8 9 7 4 10 8 10 11 4 6 8 8 6 11 6 5 9 8 13 7 7 12 13 11 8 4 8 12 8 7 4 20 37
+overall_modified_duration_list:22 9 10 6 8 9 7 4 10 8 10 11 4 6 8 8 6 11 6 5 9 8 4 10 13 9 9 6 9 8 4 8 12 8 7 4 20 37
+frame_index_to_separate:224 frame_num:353

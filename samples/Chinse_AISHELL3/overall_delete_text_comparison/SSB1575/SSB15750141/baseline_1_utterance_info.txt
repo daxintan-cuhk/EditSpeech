@@ -1,0 +1,17 @@
+original_text:考虑辞职去看客场比赛吧
+speaker:SSB1575
+word_delete_location_start:2
+word_delete_location_end:3
+word_buffer_size:1
+text_to_replace:lv4 qu4
+word_modify_location_start:1
+word_modify_location_end:4
+original_word_list:kao3 lv4 ci2 zhi2 qu4 kan4 ke4 chang3 bi3 sai4 ba5
+modified_word_list:kao3 lv4 qu4 kan4 ke4 chang3 bi3 sai4 ba5
+phone_modify_location_start:3
+phone_modify_location_end:10
+original_phone_list:sil k ao3 l v4 c ii2 zh ii2 q v4 k a4 n k e4 ch a3 ng b i3 s ai4 b a5 sp
+modified_phone_list:sil k ao3 l v4 sp q v4 k a4 n k e4 ch a3 ng b i3 s ai4 b a5 sp
+original_duration_list:18 12 7 6 10 17 10 4 7 11 7 9 5 5 12 5 10 4 6 6 8 9 11 6 12 19
+predicted_modified_duration_list:24 10 8 6 11 8 6 8 9 7 5 7 8 8 7 7 4 7 9 11 6 14 34
+frame_index_to_separate:152 frame_num:224

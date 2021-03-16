@@ -1,0 +1,17 @@
+original_text:The route was further reviewed by Lawson and Sorrels with Assistant Chief Batchelor and members of the local host committee on November fifteen.
+speaker:LJspeaker
+word_delete_location_start:6
+word_delete_location_end:9
+word_buffer_size:1
+text_to_replace:by assistant
+word_modify_location_start:5
+word_modify_location_end:10
+original_word_list:the route was further reviewed by lawson and sorrels with assistant chief batchelor and members of the local host committee on november fifteen
+modified_word_list:the route was further reviewed by assistant chief batchelor and members of the local host committee on november fifteen
+phone_modify_location_start:18
+phone_modify_location_end:45
+original_phone_list:DH AH0 R AW1 T W AH0 Z F ER1 DH ER0 R IY0 V Y UW1 D B AY1 L AO1 S AH0 N AE1 N D S AO1 R AH0 L Z sp W IH1 DH AH0 S IH1 S T AH0 N T CH IY1 F B AE1 CH AH0 L ER0 sp AE1 N D M EH1 M B ER0 Z AH0 V DH AH1 L OW1 K AH0 L HH OW1 S T K AH0 M IH1 T IY0 sp AA1 N N OW0 V EH1 M B ER0 F IH0 F T IY1 N sp
+modified_phone_list:DH AH0 R AW1 T W AH0 Z F ER1 DH ER0 R IY0 V Y UW1 D B AY1 AH0 S IH1 S T AH0 N T CH IY1 F B AE1 CH AH0 L ER0 sp AE1 N D M EH1 M B ER0 Z AH0 V DH AH1 L OW1 K AH0 L HH OW1 S T K AH0 M IH1 T IY0 sp AA1 N N OW0 V EH1 M B ER0 F IH0 F T IY1 N sp
+original_duration_list:3 6 10 13 8 3 2 10 8 8 6 4 6 5 3 12 10 3 5 10 11 11 11 7 6 10 3 5 11 7 8 6 11 21 22 7 4 3 6 9 6 6 6 4 5 3 8 14 7 7 10 10 4 12 14 20 6 8 2 6 5 6 4 5 9 4 5 3 4 11 7 6 4 8 5 11 8 7 7 3 7 6 8 19 5 13 5 7 3 10 5 4 4 6 11 5 8 11 15 14 3
+predicted_modified_duration_list:3 4 8 12 7 3 2 8 9 9 5 8 6 4 7 12 9 5 4 11 7 10 5 7 5 4 3 5 8 9 7 6 12 7 4 9 20 14 8 4 4 4 6 5 4 6 7 4 4 2 3 11 7 5 3 5 7 9 8 6 6 3 6 5 6 15 6 11 4 6 6 7 6 5 3 5 9 4 9 9 16 11 5
+frame_index_to_separate:273 frame_num:563

@@ -1,0 +1,13 @@
+original_text:Many complicated ideas about the rainbow have been formed. 
+text_to_insert:from researchers
+speaker:p267
+word_location_to_insert:6
+original_word_list:many complicated ideas about the rainbow have been formed
+inserted_word_list:many complicated ideas about the rainbow from researchers have been formed
+phone_location_to_insert:32
+phone_list_to_insert:F R AH1 M R IY1 S ER0 CH ER0 Z
+original_phone_list:sil M EH1 N IY0 K AA1 M P L AH0 K EY2 T AH0 D AY0 D IY1 AH0 Z AH0 B AW1 T DH AH0 R EY1 N B OW2 HH AE1 V B IH0 N F AO1 R M D sp
+inserted_phone_list:sil M EH1 N IY0 K AA1 M P L AH0 K EY2 T AH0 D AY0 D IY1 AH0 Z AH0 B AW1 T DH AH0 R EY1 N B OW2 F R AH1 M R IY1 S ER0 CH ER0 Z HH AE1 V B IH0 N F AO1 R M D sp
+original_duration_list:80 11 5 5 5 9 6 4 3 3 2 5 7 11 2 6 10 7 10 4 7 3 8 10 3 4 5 6 7 5 5 10 9 3 6 6 5 8 11 5 4 11 21 89
+duration_list_to_insert:7 4 4 5 5 6 7 5 10 6 12
+frame_index_to_separate:49 frame_num:517

@@ -1,0 +1,17 @@
+original_text:We're not seeing an image of the person, he said.
+speaker:p265
+word_delete_location_start:3
+word_delete_location_end:6
+word_buffer_size:1
+text_to_replace:seeing person
+word_modify_location_start:2
+word_modify_location_end:7
+original_word_list:we're not seeing an image of the person he said
+modified_word_list:we're not seeing person he said
+phone_modify_location_start:6
+phone_modify_location_end:25
+original_phone_list:sil W ER1 N AA1 T S IY1 IH0 NG AE1 N sp IH1 M AH0 JH AH1 V DH AH0 P ER1 S AH0 N sp HH IY1 S EH1 D sp
+modified_phone_list:sil W ER1 N AA1 T S IY1 IH0 NG P ER1 S AH0 N sp HH IY1 S EH1 D sp
+original_duration_list:81 7 8 7 9 8 13 11 4 7 2 7 3 8 7 10 9 4 7 4 4 10 13 11 9 15 8 15 7 10 14 18 12
+overall_inserted_duration_list:81 7 8 7 9 8 8 5 4 7 8 11 9 7 12 8 15 7 10 14 18 12
+frame_index_to_separate:125 frame_num:275

@@ -1,0 +1,13 @@
+original_text:It is as if Nature were not free to use any and every device to accomplish her end, but were conditioned by her own plans of structure;
+text_to_insert:the person possess
+speaker:LJspeaker
+word_location_to_insert:14
+original_word_list:it is as if nature were not free to use any and every device to accomplish her end but were conditioned by her own plans of structure
+inserted_word_list:it is as if nature were not free to use any and every device the person possess to accomplish her end but were conditioned by her own plans of structure
+phone_location_to_insert:41
+phone_list_to_insert:DH AH0 P ER1 S AH0 N P AH0 Z EH1 S
+original_phone_list:sil IH1 T IH1 Z AE1 Z IH1 F N EY1 CH ER0 W ER0 N AA1 T F R IY1 T UW1 Y UW1 Z EH1 N IY0 AE1 N D EH1 V R IY0 D IH0 V AY1 S T UW1 AH0 K AA1 M P L IH0 SH HH ER0 EH1 N D sp B AH1 T W ER0 K AH0 N D IH1 SH AH0 N D B AY1 HH ER0 OW1 N P L AE1 N Z AH0 V S T R AH1 K CH ER0 sp
+inserted_phone_list:sil IH1 T IH1 Z AE1 Z IH1 F N EY1 CH ER0 W ER0 N AA1 T F R IY1 T UW1 Y UW1 Z EH1 N IY0 AE1 N D EH1 V R IY0 D IH0 V AY1 S DH AH0 P ER1 S AH0 N P AH0 Z EH1 S T UW1 AH0 K AA1 M P L IH0 SH HH ER0 EH1 N D sp B AH1 T W ER0 K AH0 N D IH1 SH AH0 N D B AY1 HH ER0 OW1 N P L AE1 N Z AH0 V S T R AH1 K CH ER0 sp
+original_duration_list:11 11 3 17 6 12 8 7 8 9 8 12 7 9 3 6 10 9 6 5 10 6 4 10 6 9 11 4 11 3 3 5 6 6 4 4 5 5 6 19 10 6 6 7 5 10 3 5 4 5 7 5 11 16 10 11 25 9 5 8 3 6 8 3 7 5 7 9 7 2 9 4 9 8 12 18 4 9 6 12 5 4 5 7 5 7 3 6 7 7 13 2
+predicted_inserted_duration_list:9 12 3 8 7 8 7 4 7 5 9 11 6 7 4 6 9 7 8 3 11 7 8 12 7 8 8 4 13 5 5 6 10 6 4 6 5 4 7 14 10 3 4 10 7 9 4 4 6 4 8 9 9 7 6 6 7 9 4 5 3 5 7 5 14 14 7 11 20 5 5 7 4 6 7 4 4 5 6 10 5 2 3 5 8 9 13 10 6 8 4 12 5 5 3 5 7 6 4 4 7 8 15 3
+frame_index_to_separate:507 frame_num"727

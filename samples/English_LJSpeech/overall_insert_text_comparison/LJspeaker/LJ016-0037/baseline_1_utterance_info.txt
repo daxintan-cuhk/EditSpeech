@@ -1,0 +1,13 @@
+original_text:with only a short interval between it and the wall, supported by a horizontal iron railing with upright points;
+text_to_insert:tall
+speaker:LJspeaker
+word_location_to_insert:9
+original_word_list:with only a short interval between it and the wall supported by a horizontal iron railing with upright points
+inserted_word_list:with only a short interval between it and the tall wall supported by a horizontal iron railing with upright points
+phone_location_to_insert:33
+phone_list_to_insert:T AO1 L
+original_phone_list:W IH1 DH OW1 N L IY0 AH0 SH AO1 R T IH1 N T ER0 V AH0 L B IH0 T W IY1 N IH1 T sp AH0 N D DH AH1 W AO1 L sp S AH0 P AO1 R T IH0 D B AY1 AH0 HH AO2 R AH0 Z AA1 N T AH0 L sp AY1 ER0 N R EY1 L IH0 NG W IH1 TH sp AH1 P R AY2 T P OY1 N T S
+inserted_phone_list:W IH1 DH OW1 N L IY0 AH0 SH AO1 R T IH1 N T ER0 V AH0 L B IH0 T W IY1 N IH1 T sp AH0 N D DH AH1 T AO1 L W AO1 L sp S AH0 P AO1 R T IH0 D B AY1 AH0 HH AO2 R AH0 Z AA1 N T AH0 L sp AY1 ER0 N R EY1 L IH0 NG W IH1 TH sp AH1 P R AY2 T P OY1 N T S
+original_duration_list:3 4 5 9 7 4 8 6 19 6 8 12 6 3 7 5 6 3 10 6 4 9 5 7 5 20 12 2 8 3 3 3 3 12 12 23 37 13 5 10 8 5 5 8 6 5 7 9 7 3 10 4 13 9 7 4 6 11 3 16 11 10 10 9 8 6 10 6 4 9 3 8 11 8 7 11 7 17 3 14 20
+predicted_inserted_duration_list:3 4 5 11 6 5 8 4 13 6 6 7 6 4 7 4 4 3 6 4 4 9 4 7 6 9 12 14 9 3 2 2 4 8 12 8 8 9 15 10 11 5 8 6 5 5 4 5 5 12 5 8 5 8 5 6 8 4 4 4 12 10 19 9 7 7 9 6 4 7 5 5 8 2 8 10 4 8 8 6 14 4 8 19
+frame_index_to_separate:180 frame_num"593

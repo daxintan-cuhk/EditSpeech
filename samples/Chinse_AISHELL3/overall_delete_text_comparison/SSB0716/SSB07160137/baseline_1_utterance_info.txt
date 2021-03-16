@@ -1,0 +1,17 @@
+original_text:放首歌风中有朵雨做的云
+speaker:SSB0716
+word_delete_location_start:3
+word_delete_location_end:6
+word_buffer_size:1
+text_to_replace:ge1 yu3
+word_modify_location_start:2
+word_modify_location_end:7
+original_word_list:fang4 shou3 ge1 feng1 zhong1 you3 duo3 yu3 zuo4 de5 yun2
+modified_word_list:fang4 shou3 ge1 yu3 zuo4 de5 yun2
+phone_modify_location_start:6
+phone_modify_location_end:17
+original_phone_list:sil f a4 ng sh ou3 g e1 f e1 ng zh o1 ng iou3 d uo3 v3 sp z uo4 d e5 v2 n
+modified_phone_list:sil f a4 ng sh ou3 g e1 sp v3 sp z uo4 d e5 v2 n
+original_duration_list:5 11 6 7 9 10 8 14 10 7 8 5 7 8 14 8 13 18 2 8 9 5 12 11 45
+predicted_modified_duration_list:24 7 7 5 8 11 8 16 11 15 5 5 11 5 6 13 35
+frame_index_to_separate:132 frame_num:192

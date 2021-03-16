@@ -1,0 +1,13 @@
+original_text:beginning on September thirteen, when the Times-Herald announced in a front page article that President Kennedy was planning a brief one-day tour of four Texas cities
+text_to_insert:the autumn of
+speaker:LJspeaker
+word_location_to_insert:2
+original_word_list:beginning on september thirteen when the times herald announced in a front page article that president kennedy was planning a brief one day tour of four texas cities
+inserted_word_list:beginning on the autumn of september thirteen when the times herald announced in a front page article that president kennedy was planning a brief one day tour of four texas cities
+phone_location_to_insert:9
+phone_list_to_insert:DH AH0 AO1 T AH0 M AH1 V
+original_phone_list:B IH0 G IH1 N IH0 NG AA1 N S EH0 P T EH1 M B ER0 TH ER1 T IY1 N W EH1 N DH AH0 T AY1 M Z HH EH1 R AH0 L D AH0 N AW1 N S T sp IH1 N AH0 F R AH1 N T P EY1 JH sp AA1 R T AH0 K AH0 L sp DH AE1 T P R EH1 Z AH0 D EH2 N T K EH1 N AH0 D IY0 W AH0 Z P L AE1 N IH0 NG AH0 B R IY1 F HH W AH1 N D EY1 T UH1 R AH1 V F AO1 R T EH1 K S AH0 S S IH1 T IY0 Z sp
+inserted_phone_list:B IH0 G IH1 N IH0 NG AA1 N DH AH0 AO1 T AH0 M AH1 V S EH0 P T EH1 M B ER0 TH ER1 T IY1 N W EH1 N DH AH0 T AY1 M Z HH EH1 R AH0 L D AH0 N AW1 N S T sp IH1 N AH0 F R AH1 N T P EY1 JH sp AA1 R T AH0 K AH0 L sp DH AE1 T P R EH1 Z AH0 D EH2 N T K EH1 N AH0 D IY0 W AH0 Z P L AE1 N IH0 NG AH0 B R IY1 F HH W AH1 N D EY1 T UH1 R AH1 V F AO1 R T EH1 K S AH0 S S IH1 T IY0 Z sp
+original_duration_list:3 3 7 6 4 6 7 8 6 6 9 3 6 6 6 3 11 6 10 12 18 6 5 4 4 3 5 10 12 5 5 7 6 5 7 4 4 5 6 12 8 10 9 3 8 3 5 10 3 3 6 3 6 10 9 3 10 4 4 7 6 5 19 16 5 12 2 4 5 5 5 4 4 4 4 7 7 7 5 4 4 10 5 3 9 7 3 9 4 3 7 5 8 6 11 7 5 7 6 5 6 14 12 13 15 4 6 11 7 12 7 4 9 8 5 12 5 6 7 15 12 4
+overall_inserted_duration_list:3 3 7 6 4 6 7 8 6 2 7 12 5 4 5 3 5 6 9 3 6 6 6 3 11 6 10 12 18 6 5 4 4 3 5 10 12 5 5 7 6 5 7 4 4 5 6 12 8 10 9 3 8 3 5 10 3 3 6 3 6 10 9 3 10 4 4 7 6 5 19 16 5 12 2 4 5 5 5 4 4 4 4 7 7 7 5 4 4 10 5 3 9 7 3 9 4 3 7 5 8 6 11 7 5 7 6 5 6 14 12 13 15 4 6 11 7 12 7 4 9 8 5 12 5 6 7 15 12 4
+frame_index_to_separate:58 frame_num:876

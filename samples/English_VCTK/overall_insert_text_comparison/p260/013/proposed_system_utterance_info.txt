@@ -1,0 +1,13 @@
+original_text:Some have accepted it as a miracle without physical explanation. 
+text_to_insert:never seen before
+speaker:p260
+word_location_to_insert:7
+original_word_list:some have accepted it as a miracle without physical explanation
+inserted_word_list:some have accepted it as a miracle never seen before without physical explanation
+phone_location_to_insert:27
+phone_list_to_insert:N EH1 V ER0 S IY1 N B IH0 F AO1 R
+original_phone_list:sil S AH1 M HH AE1 V AH0 K S EH1 P T AH0 D IH0 T AE1 Z AH0 M IH1 R AH0 K AH0 L W IH0 TH AW1 T F IH1 Z IH0 K AH0 L EH2 K S P L AH0 N EY1 SH AH0 N sp
+inserted_phone_list:sil S AH1 M HH AE1 V AH0 K S EH1 P T AH0 D IH0 T AE1 Z AH0 M IH1 R AH0 K AH0 L N EH1 V ER0 S IY1 N B IH0 F AO1 R W IH0 TH AW1 T F IH1 Z IH0 K AH0 L EH2 K S P L AH0 N EY1 SH AH0 N sp
+original_duration_list:62 15 5 5 3 3 3 8 4 8 9 4 5 3 4 8 6 7 5 4 8 3 6 5 6 5 6 4 4 6 7 7 5 6 4 3 6 4 5 4 6 4 4 4 3 5 7 7 3 11 25
+overall_inserted_duration_list:62 15 5 5 3 3 3 8 4 8 9 4 5 3 4 8 6 7 5 4 8 3 6 5 6 5 6 5 5 5 6 9 5 5 3 5 9 4 4 4 4 6 7 7 5 6 4 3 6 4 5 4 6 4 4 4 3 5 7 7 3 11 25
+frame_index_to_separate:262 frame_num:419

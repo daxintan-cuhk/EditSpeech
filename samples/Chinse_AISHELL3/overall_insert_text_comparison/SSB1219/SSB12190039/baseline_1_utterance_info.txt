@@ -1,0 +1,13 @@
+original_text:今天就让我们掌管复活节工厂吧
+text_to_insert:成立组织
+speaker:SSB1219
+word_location_to_insert:6
+original_word_list:jin1 tian1 jiu4 rang4 wo3 men5 zhang3 guan3 fu4 huo2 jie2 gong1 chang3 ba5
+inserted_word_list:jin1 tian1 jiu4 rang4 wo3 men5 成立组织 zhang3 guan3 fu4 huo2 jie2 gong1 chang3 ba5
+phone_location_to_insert:16
+phone_list_to_insert:ch e2 ng l i4 z u3 zh ii1
+original_phone_list:sil j i1 n t ia1 n j iu4 r a4 ng uo3 m e5 n zh a3 ng g ua3 n f u4 h uo2 j ie2 g o1 ng ch a3 ng b a5 sp
+inserted_phone_list:sil j i1 n t ia1 n j iu4 r a4 ng uo3 m e5 n ch e2 ng l i4 z u3 zh ii1 zh a3 ng g ua3 n f u4 h uo2 j ie2 g o1 ng ch a3 ng b a5 sp
+original_duration_list:22 9 10 6 8 9 7 4 10 8 10 11 4 6 8 8 6 11 6 5 9 8 13 7 7 12 13 11 8 4 8 12 8 7 4 20 37
+predicted_inserted_duration_list:26 6 6 7 5 9 6 3 8 7 7 6 7 5 5 5 7 5 5 3 12 8 9 7 8 5 8 5 4 8 6 8 6 7 7 9 8 6 4 6 6 6 7 4 14 34
+frame_index_to_separate:292 frame_num"350

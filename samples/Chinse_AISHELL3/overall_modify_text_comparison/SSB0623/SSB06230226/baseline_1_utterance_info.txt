@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/AISHELL3/SSB0623/SSB06230226.wav
+original_text:来一首音乐童话
+text_to_replace:个安徒生
+speaker:SSB0623
+word_modify_location_start:2
+word_modify_location_end:4
+original_word_list:lai2 yi1 shou3 yin1 yue4 tong2 hua4
+modified_word_list:lai2 yi1 个安徒生 tong2 hua4
+phone_modify_location_start:4
+phone_modify_location_end:8
+phone_list_to_replace:g e4 a1 n t u2 sh e1 ng
+original_phone_list:sil l ai2 i1 sh ou3 i1 n ve4 sp t o2 ng h ua4 sp
+modified_phone_list:sil l ai2 i1 g e4 a1 n t u2 sh e1 ng sp t o2 ng h ua4 sp
+original_duration_list:9 11 13 5 6 12 3 10 25 2 8 4 8 5 18 28
+predicted_modified_duration_list:23 8 11 8 6 7 11 8 6 7 7 6 9 5 5 4 7 6 21 33
+frame_index_to_separate:193 frame_num:198

@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/LJSpeech/LJ006-0040.wav
+original_text:The fact was that the years as they passed, nearly twenty in all, had worked but little permanent improvement in this detestable prison.
+text_to_replace:and large substantial
+speaker:LJspeaker
+word_modify_location_start:15
+word_modify_location_end:17
+original_word_list:the fact was that the years as they passed nearly twenty in all had worked but little permanent improvement in this detestable prison
+modified_word_list:the fact was that the years as they passed nearly twenty in all had worked and large substantial improvement in this detestable prison
+phone_modify_location_start:51
+phone_modify_location_end:67
+phone_list_to_replace:AH0 N D L AA1 R JH S AH0 B S T AE1 N CH AH0 L
+original_phone_list:DH AH0 F AE1 K T W AA1 Z sp DH AE1 T DH IY0 Y IH1 R Z AE1 Z DH EY1 P AE1 S T sp N IH1 R L IY0 T W EH1 N T IY0 IH0 N AO1 L sp HH AE1 D W ER1 K T B AH1 T sp L IH1 T AH0 L P ER1 M AH0 N AH0 N T IH0 M P R UW1 V M AH0 N T IH1 N DH IH1 S D IH0 T EH1 S T AH0 B AH0 L P R IH1 Z AH0 N sp
+modified_phone_list:DH AH0 F AE1 K T W AA1 Z sp DH AE1 T DH IY0 Y IH1 R Z AE1 Z DH EY1 P AE1 S T sp N IH1 R L IY0 T W EH1 N T IY0 IH0 N AO1 L sp HH AE1 D W ER1 K T AH0 N D L AA1 R JH S AH0 B S T AE1 N CH AH0 L IH0 M P R UW1 V M AH0 N T IH1 N DH IH1 S D IH0 T EH1 S T AH0 B AH0 L P R IH1 Z AH0 N sp
+original_duration_list:3 4 12 12 5 8 7 20 29 20 8 8 2 4 7 19 6 13 7 14 5 5 9 10 24 11 15 3 8 7 3 6 4 10 4 5 3 7 6 5 4 17 31 17 7 2 7 10 13 2 7 4 4 6 2 9 5 7 5 9 9 9 3 4 4 5 4 2 7 5 7 6 9 4 5 6 3 4 12 6 2 4 8 5 6 14 5 9 5 4 2 5 6 10 3 7 6 8 12 5
+overall_modified_duration_list:3 4 12 12 5 8 7 20 29 20 8 8 2 4 7 19 6 13 7 14 5 5 9 10 24 11 15 3 8 7 3 6 4 10 4 5 3 7 6 5 4 17 31 17 7 2 7 10 13 2 7 5 3 4 9 8 8 9 8 4 4 9 7 9 4 7 4 6 7 5 7 6 9 4 5 6 3 4 12 6 2 4 8 5 6 14 5 9 5 4 2 5 6 10 3 7 6 8 12 5
+frame_index_to_separate:541 frame_num:783

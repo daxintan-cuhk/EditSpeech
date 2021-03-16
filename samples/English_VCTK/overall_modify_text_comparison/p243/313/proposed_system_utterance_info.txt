@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/VCTK/p243/p243_313.wav
+original_text:For that reason cover should not be given.
+text_to_replace:is impossible to
+speaker:p243
+word_modify_location_start:4
+word_modify_location_end:5
+original_word_list:for that reason cover should not be given
+modified_word_list:for that reason cover is impossible to be given
+phone_modify_location_start:17
+phone_modify_location_end:22
+phone_list_to_replace:IH1 Z IH0 M P AA1 S AH0 B AH0 L T UW1
+original_phone_list:sil F ER0 sp DH AE1 T R IY1 Z AH0 N sp K AH1 V ER0 SH UH1 D N AA1 T B IY1 G IH1 V AH0 N sp
+modified_phone_list:sil F ER0 sp DH AE1 T R IY1 Z AH0 N sp K AH1 V ER0 IH1 Z IH0 M P AA1 S AH0 B AH0 L T UW1 B IY1 G IH1 V AH0 N sp
+original_duration_list:32 3 3 29 22 6 9 7 7 7 6 12 4 12 9 6 11 11 3 6 5 3 5 6 5 7 6 7 4 9 22
+overall_modified_duration_list:32 3 3 29 22 6 9 7 7 7 6 12 4 12 9 6 11 5 5 4 4 6 8 7 4 3 4 6 7 6 6 5 7 6 7 4 9 22
+frame_index_to_separate:221 frame_num:320

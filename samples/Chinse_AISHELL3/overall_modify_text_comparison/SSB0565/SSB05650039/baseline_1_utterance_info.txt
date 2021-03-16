@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/AISHELL3/SSB0565/SSB05650039.wav
+original_text:现在我们仍没解除核原料的威胁
+text_to_replace:军备竞赛
+speaker:SSB0565
+word_modify_location_start:8
+word_modify_location_end:10
+original_word_list:xian4 zai4 wo3 men5 reng2 mei2 jie3 chu2 he2 yuan2 liao4 de5 wei1 xie2
+modified_word_list:xian4 zai4 wo3 men5 reng2 mei2 jie3 chu2 军备竞赛 de5 wei1 xie2
+phone_modify_location_start:19
+phone_modify_location_end:24
+phone_list_to_replace:j v1 n b ei4 j i4 ng s ai4
+original_phone_list:sil x ia4 n z ai4 uo3 m e5 n r e2 ng m ei2 j ie3 ch u2 h e2 va2 n l iao4 sp d e5 uei1 x ie2 sp
+modified_phone_list:sil x ia4 n z ai4 uo3 m e5 n r e2 ng m ei2 j ie3 ch u2 j v1 n b ei4 j i4 ng s ai4 sp d e5 uei1 x ie2 sp
+original_duration_list:23 5 5 5 4 7 7 6 7 3 6 6 3 3 10 5 12 8 8 13 7 9 12 5 23 3 2 22 18 12 14 38
+predicted_modified_duration_list:26 8 6 6 4 12 10 5 4 5 4 6 5 4 9 7 11 10 7 7 7 8 4 11 7 4 6 7 12 2 3 6 14 12 14 33
+frame_index_to_separate:15 frame_num:306

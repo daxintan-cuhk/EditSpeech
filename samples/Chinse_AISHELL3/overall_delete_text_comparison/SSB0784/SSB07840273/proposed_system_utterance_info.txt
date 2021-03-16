@@ -1,0 +1,17 @@
+original_text:我们看起来像有病吗
+speaker:SSB0784
+word_delete_location_start:2
+word_delete_location_end:4
+word_buffer_size:1
+text_to_replace:men5 xiang4
+word_modify_location_start:1
+word_modify_location_end:5
+original_word_list:wo3 men5 kan4 qi3 lai2 xiang4 you3 bing4 ma5
+modified_word_list:wo3 men5 xiang4 you3 bing4 ma5
+phone_modify_location_start:2
+phone_modify_location_end:14
+original_phone_list:sil uo3 m e5 n k a4 n q i3 l ai2 x ia4 ng iou3 b i4 ng m a5 sp
+modified_phone_list:sil uo3 m e5 n sp x ia4 ng iou3 b i4 ng m a5 sp
+original_duration_list:22 16 7 11 6 7 7 7 11 4 8 11 9 6 11 11 9 5 7 6 23 30
+overall_inserted_duration_list:22 16 6 5 8 6 7 7 9 11 9 5 7 6 23 30
+frame_index_to_separate:82 frame_num:177

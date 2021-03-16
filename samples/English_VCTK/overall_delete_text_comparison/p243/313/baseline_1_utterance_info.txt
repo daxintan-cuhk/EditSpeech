@@ -1,0 +1,17 @@
+original_text:For that reason cover should not be given.
+speaker:p243
+word_delete_location_start:4
+word_delete_location_end:6
+word_buffer_size:1
+text_to_replace:cover given
+word_modify_location_start:3
+word_modify_location_end:7
+original_word_list:for that reason cover should not be given
+modified_word_list:for that reason cover given
+phone_modify_location_start:13
+phone_modify_location_end:29
+original_phone_list:sil F ER0 sp DH AE1 T R IY1 Z AH0 N sp K AH1 V ER0 SH UH1 D N AA1 T B IY1 G IH1 V AH0 N sp
+modified_phone_list:sil F ER0 sp DH AE1 T R IY1 Z AH0 N sp K AH1 V ER0 G IH1 V AH0 N sp
+original_duration_list:32 3 3 29 22 6 9 7 7 7 6 12 4 12 9 6 11 11 3 6 5 3 5 6 5 7 6 7 4 9 22
+predicted_modified_duration_list:53 10 7 15 10 7 6 5 8 6 6 8 4 9 4 5 5 5 6 4 6 11 31
+frame_index_to_separate:145 frame_num:231

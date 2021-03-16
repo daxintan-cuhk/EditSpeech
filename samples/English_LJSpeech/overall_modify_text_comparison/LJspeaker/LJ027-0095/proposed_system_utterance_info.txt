@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/LJSpeech/LJ027-0095.wav
+original_text:It is as if Nature were not free to use any and every device to accomplish her end, but were conditioned by her own plans of structure;
+text_to_replace:red and blue
+speaker:LJspeaker
+word_modify_location_start:10
+word_modify_location_end:12
+original_word_list:it is as if nature were not free to use any and every device to accomplish her end but were conditioned by her own plans of structure
+modified_word_list:it is as if nature were not free to use red and blue device to accomplish her end but were conditioned by her own plans of structure
+phone_modify_location_start:26
+phone_modify_location_end:35
+phone_list_to_replace:R EH1 D AH0 N D B L UW1
+original_phone_list:sil IH1 T IH1 Z AE1 Z IH1 F N EY1 CH ER0 W ER0 N AA1 T F R IY1 T UW1 Y UW1 Z EH1 N IY0 AE1 N D EH1 V R IY0 D IH0 V AY1 S T UW1 AH0 K AA1 M P L IH0 SH HH ER0 EH1 N D sp B AH1 T W ER0 K AH0 N D IH1 SH AH0 N D B AY1 HH ER0 OW1 N P L AE1 N Z AH0 V S T R AH1 K CH ER0 sp
+modified_phone_list:sil IH1 T IH1 Z AE1 Z IH1 F N EY1 CH ER0 W ER0 N AA1 T F R IY1 T UW1 Y UW1 Z R EH1 D AH0 N D B L UW1 D IH0 V AY1 S T UW1 AH0 K AA1 M P L IH0 SH HH ER0 EH1 N D sp B AH1 T W ER0 K AH0 N D IH1 SH AH0 N D B AY1 HH ER0 OW1 N P L AE1 N Z AH0 V S T R AH1 K CH ER0 sp
+original_duration_list:11 11 3 17 6 12 8 7 8 9 8 12 7 9 3 6 10 9 6 5 10 6 4 10 6 9 11 4 11 3 3 5 6 6 4 4 5 5 6 19 10 6 6 7 5 10 3 5 4 5 7 5 11 16 10 11 25 9 5 8 3 6 8 3 7 5 7 9 7 2 9 4 9 8 12 18 4 9 6 12 5 4 5 7 5 7 3 6 7 7 13 2
+overall_modified_duration_list:11 11 3 17 6 12 8 7 8 9 8 12 7 9 3 6 10 9 6 5 10 6 4 10 6 9 8 7 4 6 4 4 3 8 8 5 5 6 19 10 6 6 7 5 10 3 5 4 5 7 5 11 16 10 11 25 9 5 8 3 6 8 3 7 5 7 9 7 2 9 4 9 8 12 18 4 9 6 12 5 4 5 7 5 7 3 6 7 7 13 2
+frame_index_to_separate:262 frame_num:686

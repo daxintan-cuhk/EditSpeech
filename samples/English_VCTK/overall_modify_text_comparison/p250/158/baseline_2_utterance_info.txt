@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/VCTK/p250/p250_158.wav
+original_text:What do we want to do that for?
+text_to_replace:figure out
+speaker:p250
+word_modify_location_start:5
+word_modify_location_end:6
+original_word_list:what do we want to do that for
+modified_word_list:what do we want to figure out for
+phone_modify_location_start:14
+phone_modify_location_end:18
+original_phone_list:sil W AH1 T D UW1 W IY1 W AA1 N T T IH0 D UW1 DH AE1 T F AO1 R sp
+modified_phone_list:sil W AH1 T D UW1 W IY1 W AA1 N T T IH0 F IH1 G Y ER0 AW1 T F AO1 R sp
+original_duration_list:81 7 5 2 4 3 5 4 10 4 4 2 5 2 6 5 4 9 3 7 7 9 17
+phone_list_to_replace:F IH1 G Y ER0 AW1 T
+duration_list_to_replace:8 5 4 3 6 12 6
+frame_index_to_separate:31 frame_num:222
