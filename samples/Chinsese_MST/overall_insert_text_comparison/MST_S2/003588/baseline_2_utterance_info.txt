@@ -1,0 +1,13 @@
+original_text:为了使我痴情到底，她又以炽热的情侣身份，跟我谈着圣朗拜尔。
+text_to_insert:一往无前
+speaker:MST_S2
+word_location_to_insert:4
+original_word_list:wei4 le5 shi3 wo3 chi1 qing2 dao4 di3 ta1 you4 yi3 chi4 re4 de5 qing2 lv3 shen1 fen4 gen1 wo3 tan2 zhe5 sheng4 lang3 bai4 er3
+inserted_word_list:wei4 le5 shi3 wo3 一往无前 chi1 qing2 dao4 di3 ta1 you4 yi3 chi4 re4 de5 qing2 lv3 shen1 fen4 gen1 wo3 tan2 zhe5 sheng4 lang3 bai4 er3
+phone_location_to_insert:7
+phone_list_to_insert:i1 ua3 ng u2 q ia2 n
+original_phone_list:sil uei4 l e5 sh ii3 uo3 ch ii1 q i2 ng d ao4 d i3 sp t a1 iou4 i3 ch ii4 r e4 d e5 q i2 ng l v3 sh e1 n f e4 n sp g e1 n uo3 t a2 n zh e5 sh e4 ng l a3 ng b ai4 e3 r sp
+inserted_phone_list:sil uei4 l e5 sh ii3 uo3 i1 ua3 ng u2 q ia2 n ch ii1 q i2 ng d ao4 d i3 sp t a1 iou4 i3 ch ii4 r e4 d e5 q i2 ng l v3 sh e1 n f e4 n sp g e1 n uo3 t a2 n zh e5 sh e4 ng l a3 ng b ai4 e3 r sp
+original_duration_list:10 12 4 4 12 2 13 12 5 5 8 2 6 11 8 13 23 8 4 13 7 18 5 3 6 5 5 10 3 6 3 5 9 3 11 5 6 8 19 6 3 6 9 12 3 4 4 2 9 7 2 3 3 4 7 13 2 13 9
+duration_list_to_insert:12 8 6 6 9 3 18
+frame_index_to_separate:61 frame_num:495

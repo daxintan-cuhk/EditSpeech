@@ -1,0 +1,13 @@
+original_text:“刷脸”这一概念对很多人来说其实并不陌生。
+text_to_insert:现代说话的
+speaker:MST_S2
+word_location_to_insert:7
+original_word_list:shua1 lian3 zhe4 yi1 gai4 nian4 dui4 hen3 duo1 ren2 lai2 shuo1 qi2 shi2 bing4 bu4 mo4 sheng1
+inserted_word_list:shua1 lian3 zhe4 yi1 gai4 nian4 dui4 现代说话的 hen3 duo1 ren2 lai2 shuo1 qi2 shi2 bing4 bu4 mo4 sheng1
+phone_location_to_insert:17
+phone_list_to_insert:x ia4 n d ai4 sh uo1 h ua4 d e5
+original_phone_list:sil sh ua1 l ia3 n zh e4 i1 g ai4 n ia4 n sp d uei4 h e3 n d uo1 r e2 n l ai2 sh uo1 sp q i2 sh ii2 b i4 ng sp b u4 m o4 sh e1 ng sp
+inserted_phone_list:sil sh ua1 l ia3 n zh e4 i1 g ai4 n ia4 n sp d uei4 x ia4 n d ai4 sh uo1 h ua4 d e5 h e3 n d uo1 r e2 n l ai2 sh uo1 sp q i2 sh ii2 b i4 ng sp b u4 m o4 sh e1 ng sp
+original_duration_list:10 15 10 6 6 9 7 6 8 9 7 7 7 8 6 4 5 11 3 7 6 5 6 3 4 4 9 11 13 4 10 4 7 7 5 6 4 5 3 2 11 7 10 8 6 31
+overall_inserted_duration_list:10 15 10 6 6 9 7 6 8 9 7 7 7 8 6 4 5 7 3 5 5 5 9 3 10 5 5 2 11 3 7 6 5 6 3 4 4 9 11 13 4 10 4 7 7 5 6 4 5 3 2 11 7 10 8 6 31
+frame_index_to_separate:172 frame_num:401

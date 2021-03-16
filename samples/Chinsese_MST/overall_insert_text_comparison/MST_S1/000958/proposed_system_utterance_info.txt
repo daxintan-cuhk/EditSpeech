@@ -1,0 +1,13 @@
+original_text:没多久，全世界的人都知道了，这个世界上还有一个美丽善良的姑娘叫拇指姑娘。
+text_to_insert:不约而同
+speaker:MST_S1
+word_location_to_insert:9
+original_word_list:mei2 duo1 jiu3 quan2 shi4 jie4 de5 ren2 dou1 zhi1 dao4 le5 zhe4 ge4 shi4 jie4 shang4 hai2 you3 yi2 ge4 mei3 li4 shan4 liang2 de5 gu1 niang2 jiao4 mu3 zhi3 gu1 niang2
+inserted_word_list:mei2 duo1 jiu3 quan2 shi4 jie4 de5 ren2 dou1 不约而同 zhi1 dao4 le5 zhe4 ge4 shi4 jie4 shang4 hai2 you3 yi2 ge4 mei3 li4 shan4 liang2 de5 gu1 niang2 jiao4 mu3 zhi3 gu1 niang2
+phone_location_to_insert:22
+phone_list_to_insert:b u4 ve1 e2 r t o2 ng
+original_phone_list:sil m ei2 d uo1 j iu3 sp q va2 n sh ii4 j ie4 d e5 r e2 n d ou1 zh ii1 d ao4 l e5 sp zh e4 g e4 sh ii4 j ie4 sh a4 ng h ai2 iou3 i2 g e4 m ei3 l i4 sh a4 n l ia2 ng d e5 g u1 n ia2 ng sp j iao4 m u3 zh ii3 g u1 n ia2 ng sp
+inserted_phone_list:sil m ei2 d uo1 j iu3 sp q va2 n sh ii4 j ie4 d e5 r e2 n d ou1 b u4 ve1 e2 r t o2 ng zh ii1 d ao4 l e5 sp zh e4 g e4 sh ii4 j ie4 sh a4 ng h ai2 iou3 i2 g e4 m ei3 l i4 sh a4 n l ia2 ng d e5 g u1 n ia2 ng sp j iao4 m u3 zh ii3 g u1 n ia2 ng sp
+original_duration_list:7 10 8 7 6 8 11 22 15 2 4 6 5 6 7 4 5 6 6 4 7 4 10 4 7 10 6 12 12 12 4 5 4 9 6 5 8 9 7 3 10 5 9 9 5 4 7 11 4 10 8 5 3 3 6 5 2 4 8 5 8 7 6 4 6 6 9 9 10 5 10 3 11 7 7 19
+overall_inserted_duration_list:7 10 8 7 6 8 11 22 15 2 4 6 5 6 7 4 5 6 6 4 7 4 7 6 9 7 6 9 3 5 10 4 7 10 6 12 12 12 4 5 4 9 6 5 8 9 7 3 10 5 9 9 5 4 7 11 4 10 8 5 3 3 6 5 2 4 8 5 8 7 6 4 6 6 9 9 10 5 10 3 11 7 7 19
+frame_index_to_separate:201 frame_num:595

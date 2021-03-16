@@ -1,0 +1,17 @@
+original_text:她请求老巫婆赶紧施行法术，让拉斯姆斯赶紧回来。
+speaker:MST_S1
+word_delete_location_start:17
+word_delete_location_end:18
+word_buffer_size:1
+text_to_replace:si1 hui2
+word_modify_location_start:16
+word_modify_location_end:19
+original_word_list:ta1 qing3 qiu2 lao3 wu1 po2 gan3 jin3 shi1 xing2 fa3 shu4 rang4 la1 si1 mu3 si1 gan3 jin3 hui2 lai2
+modified_word_list:ta1 qing3 qiu2 lao3 wu1 po2 gan3 jin3 shi1 xing2 fa3 shu4 rang4 la1 si1 mu3 si1 hui2 lai2
+phone_modify_location_start:40
+phone_modify_location_end:50
+original_phone_list:sil t a1 sp q i3 ng q iu2 l ao3 u1 p o2 sp g a3 n j i3 n sh ii1 x i2 ng f a3 sh u4 sp r a4 ng l a1 s ii1 m u3 s ii1 sp g a3 n j i3 n h uei2 l ai2 sp
+modified_phone_list:sil t a1 sp q i3 ng q iu2 l ao3 u1 p o2 sp g a3 n j i3 n sh ii1 x i2 ng f a3 sh u4 sp r a4 ng l a1 s ii1 m u3 s ii1 sp h uei2 l ai2 sp
+original_duration_list:8 10 4 5 6 5 4 7 11 4 9 13 12 12 3 6 5 6 3 5 4 8 5 7 4 4 5 8 16 10 26 5 3 3 3 8 9 3 6 7 10 6 6 4 3 5 4 3 3 9 8 6 12 11
+overall_inserted_duration_list:8 10 4 5 6 5 4 7 11 4 9 13 12 12 3 6 5 6 3 5 4 8 5 7 4 4 5 8 16 10 26 5 3 3 3 8 9 3 6 7 11 4 2 5 6 6 12 11
+frame_index_to_separate:289 frame_num:339

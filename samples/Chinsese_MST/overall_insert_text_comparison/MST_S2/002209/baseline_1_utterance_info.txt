@@ -1,0 +1,13 @@
+original_text:银行政策改变，增加首付比例，提高利率，抬高购房门槛。
+text_to_insert:二套房
+speaker:MST_S2
+word_location_to_insert:8
+original_word_list:yin2 hang2 zheng4 ce4 gai3 bian4 zeng1 jia1 shou3 fu4 bi3 li4 ti2 gao1 li4 lv4 tai2 gao1 gou4 fang2 men2 kan3
+inserted_word_list:yin2 hang2 zheng4 ce4 gai3 bian4 zeng1 jia1 二套房 shou3 fu4 bi3 li4 ti2 gao1 li4 lv4 tai2 gao1 gou4 fang2 men2 kan3
+phone_location_to_insert:24
+phone_list_to_insert:e4 r t ao4 f a2 ng
+original_phone_list:sil i2 n h a2 ng zh e4 ng c e4 sp g ai3 sp b ia4 n sp z e1 ng j ia1 sh ou3 sp f u4 b i3 l i4 sp t i2 g ao1 l i4 l v4 sp t ai2 g ao1 g ou4 f a2 ng m e2 n k a3 n sp
+inserted_phone_list:sil i2 n h a2 ng zh e4 ng c e4 sp g ai3 sp b ia4 n sp z e1 ng j ia1 e4 r t ao4 f a2 ng sh ou3 sp f u4 b i3 l i4 sp t i2 g ao1 l i4 l v4 sp t ai2 g ao1 g ou4 f a2 ng m e2 n k a3 n sp
+original_duration_list:5 13 2 7 3 7 5 4 3 7 7 3 3 9 5 4 7 7 21 10 3 6 4 9 10 6 4 4 9 5 8 8 15 16 15 5 7 8 6 8 11 13 21 8 6 6 8 7 6 10 2 3 5 3 7 10 5 10 13
+predicted_inserted_duration_list:12 9 4 6 4 6 5 5 4 8 5 4 4 8 4 3 6 6 12 8 4 4 4 7 6 8 10 6 9 4 5 6 5 4 5 5 5 5 7 13 12 11 5 7 9 4 8 7 8 7 9 6 7 7 6 5 8 4 4 4 3 6 10 3 7 15
+frame_index_to_separate:420 frame_num"427

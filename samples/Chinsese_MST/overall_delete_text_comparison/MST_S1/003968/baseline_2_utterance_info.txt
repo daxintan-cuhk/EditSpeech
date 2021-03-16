@@ -1,0 +1,15 @@
+original_text:受苦难折磨的中国人并不是我们几个，而是成千上万的。
+speaker:MST_S1
+word_delete_location_start:12
+word_delete_location_end:13
+word_buffer_size:1
+text_to_replace:
+word_modify_location_start:12
+word_modify_location_end:13
+original_word_list:shou4 ku3 nan4 zhe2 mo2 de5 zhong1 guo2 ren2 bing4 bu2 shi4 wo3 men5 ji3 ge4 er2 shi4 cheng2 qian1 shang4 wan4 de5
+modified_word_list:shou4 ku3 nan4 zhe2 mo2 de5 zhong1 guo2 ren2 bing4 bu2 shi4  ji3 ge4 er2 shi4 cheng2 qian1 shang4 wan4 de5
+phone_modify_location_start:29
+phone_modify_location_end:32
+original_phone_list:sil sh ou4 k u3 n a4 n zh e2 m o2 d e5 zh o1 ng g uo2 r e2 n b i4 ng b u2 sh ii4 uo3 m e5 n j i3 sp g e4 sp e2 r sh ii4 ch e2 ng q ia1 n sh a4 ng ua4 n d e5 sp
+modified_phone_list:sil sh ou4 k u3 n a4 n zh e2 m o2 d e5 zh o1 ng g uo2 r e2 n b i4 ng b u2 sh ii4 j i3 sp g e4 sp e2 r sh ii4 ch e2 ng q ia1 n sh a4 ng ua4 n d e5 sp
+original_duration_list:11 12 6 13 3 7 7 5 8 5 7 5 6 5 6 5 4 4 5 7 6 6 8 5 3 6 5 7 3 8 5 3 4 9 5 4 7 8 11 22 8 10 7 9 5 3 7 4 3 8 5 2 9 8 5 13 7

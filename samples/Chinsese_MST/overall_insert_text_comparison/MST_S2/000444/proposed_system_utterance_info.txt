@@ -1,0 +1,13 @@
+original_text:一个好的婚姻更容易获得好的收益。
+text_to_insert:一般来说
+speaker:MST_S2
+word_location_to_insert:6
+original_word_list:yi2 ge4 hao3 de5 hun1 yin1 geng4 rong2 yi4 huo4 de2 hao3 de5 shou1 yi4
+inserted_word_list:yi2 ge4 hao3 de5 hun1 yin1 一般来说 geng4 rong2 yi4 huo4 de2 hao3 de5 shou1 yi4
+phone_location_to_insert:14
+phone_list_to_insert:i4 b a1 n l ai2 sh uo1
+original_phone_list:sil i2 g e4 h ao3 d e5 h ue1 n i1 n sp g e4 ng r o2 ng i4 h uo4 d e2 h ao3 d e5 sh ou1 i4 sp
+inserted_phone_list:sil i2 g e4 h ao3 d e5 h ue1 n i1 n sp i4 b a1 n l ai2 sh uo1 g e4 ng r o2 ng i4 h uo4 d e2 h ao3 d e5 sh ou1 i4 sp
+original_duration_list:12 7 6 4 13 5 5 4 9 4 6 9 11 3 6 3 3 2 6 6 7 13 6 5 7 16 5 5 5 12 10 15 12
+overall_inserted_duration_list:12 7 6 4 13 5 5 4 9 4 6 9 11 3 8 5 6 3 4 7 10 5 6 3 3 2 6 6 7 13 6 5 7 16 5 5 5 12 10 15 12
+frame_index_to_separate:125 frame_num:290

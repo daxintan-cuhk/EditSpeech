@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/MST/MST_S2/002209.wav
+original_text:银行政策改变，增加首付比例，提高利率，抬高购房门槛。
+text_to_replace:外来人口
+speaker:MST_S2
+word_modify_location_start:8
+word_modify_location_end:9
+original_word_list:yin2 hang2 zheng4 ce4 gai3 bian4 zeng1 jia1 shou3 fu4 bi3 li4 ti2 gao1 li4 lv4 tai2 gao1 gou4 fang2 men2 kan3
+modified_word_list:yin2 hang2 zheng4 ce4 gai3 bian4 zeng1 jia1 外来人口 bi3 li4 ti2 gao1 li4 lv4 tai2 gao1 gou4 fang2 men2 kan3
+phone_modify_location_start:24
+phone_modify_location_end:28
+phone_list_to_replace:uai4 l ai2 r e2 n k ou3
+original_phone_list:sil i2 n h a2 ng zh e4 ng c e4 sp g ai3 sp b ia4 n sp z e1 ng j ia1 sh ou3 sp f u4 b i3 l i4 sp t i2 g ao1 l i4 l v4 sp t ai2 g ao1 g ou4 f a2 ng m e2 n k a3 n sp
+modified_phone_list:sil i2 n h a2 ng zh e4 ng c e4 sp g ai3 sp b ia4 n sp z e1 ng j ia1 uai4 l ai2 r e2 n k ou3 b i3 l i4 sp t i2 g ao1 l i4 l v4 sp t ai2 g ao1 g ou4 f a2 ng m e2 n k a3 n sp
+original_duration_list:5 13 2 7 3 7 5 4 3 7 7 3 3 9 5 4 7 7 21 10 3 6 4 9 10 6 4 4 9 5 8 8 15 16 15 5 7 8 6 8 11 13 21 8 6 6 8 7 6 10 2 3 5 3 7 10 5 10 13
+overall_modified_duration_list:5 13 2 7 3 7 5 4 3 7 7 3 3 9 5 4 7 7 21 10 3 6 4 9 15 5 6 6 4 4 10 4 5 8 8 15 16 15 5 7 8 6 8 11 13 21 8 6 6 8 7 6 10 2 3 5 3 7 10 5 10 13
+frame_index_to_separate:200 frame_num:463

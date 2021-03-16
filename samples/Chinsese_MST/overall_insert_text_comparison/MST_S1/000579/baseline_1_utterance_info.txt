@@ -1,0 +1,13 @@
+original_text:这些差异和不同实际上就是横亘在穷人和富人之间的一道分界线。
+text_to_insert:社会的
+speaker:MST_S1
+word_location_to_insert:15
+original_word_list:zhe4 xie1 cha1 yi4 he2 bu4 tong2 shi2 ji4 shang4 jiu4 shi4 heng2 gen4 zai4 qiong2 ren2 he2 fu4 ren2 zhi1 jian1 de5 yi1 dao4 fen1 jie4 xian4
+inserted_word_list:zhe4 xie1 cha1 yi4 he2 bu4 tong2 shi2 ji4 shang4 jiu4 shi4 heng2 gen4 zai4 社会的 qiong2 ren2 he2 fu4 ren2 zhi1 jian1 de5 yi1 dao4 fen1 jie4 xian4
+phone_location_to_insert:35
+phone_list_to_insert:sh e4 h uei4 d e5
+original_phone_list:sil zh e4 x ie1 ch a1 i4 h e2 b u4 t o2 ng sp sh ii2 j i4 sh a4 ng j iu4 sh ii4 h e2 ng g e4 n z ai4 q io2 ng r e2 n h e2 f u4 r e2 n zh ii1 j ia1 n d e5 i1 d ao4 f e1 n j ie4 x ia4 n sp
+inserted_phone_list:sil zh e4 x ie1 ch a1 i4 h e2 b u4 t o2 ng sp sh ii2 j i4 sh a4 ng j iu4 sh ii4 h e2 ng g e4 n z ai4 sh e4 h uei4 d e5 q io2 ng r e2 n h e2 f u4 r e2 n zh ii1 j ia1 n d e5 i1 d ao4 f e1 n j ie4 x ia4 n sp
+original_duration_list:21 8 5 6 6 11 12 12 9 4 7 5 11 8 11 2 12 5 5 7 7 6 6 4 3 9 3 10 3 6 6 4 4 5 7 12 3 5 4 6 2 9 3 11 4 5 4 5 6 3 6 6 4 2 5 7 6 4 7 3 5 5 5 9 6 5 14
+predicted_inserted_duration_list:9 7 4 7 6 11 13 9 11 3 6 4 10 6 5 13 7 3 4 5 6 6 5 4 3 8 4 9 3 4 4 3 4 5 4 9 3 8 4 4 3 8 4 5 4 5 5 8 3 11 4 4 3 5 5 4 5 4 5 3 4 7 5 5 8 2 6 5 8 9 4 6 14
+frame_index_to_separate:0 frame_num"424

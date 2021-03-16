@@ -1,0 +1,17 @@
+original_text:最后，一些粗浅观察吧，就多说几点吧。一，越南确实在勃兴。
+speaker:MST_S1
+word_delete_location_start:4
+word_delete_location_end:5
+word_buffer_size:1
+text_to_replace:xie1 guan1
+word_modify_location_start:3
+word_modify_location_end:6
+original_word_list:zui4 hou4 yi1 xie1 cu1 qian3 guan1 cha2 ba5 jiu4 duo1 shuo1 ji3 dian3 ba5 yi1 yue4 nan2 que4 shi2 zai4 bo2 xing1
+modified_word_list:zui4 hou4 yi1 xie1 guan1 cha2 ba5 jiu4 duo1 shuo1 ji3 dian3 ba5 yi1 yue4 nan2 que4 shi2 zai4 bo2 xing1
+phone_modify_location_start:7
+phone_modify_location_end:16
+original_phone_list:sil z uei4 h ou4 sp i1 x ie1 c u1 q ia3 n g ua1 n ch a2 b a5 sp j iu4 d uo1 sh uo1 j i3 d ia3 n b a5 sp i1 sp ve4 n a2 n q ve4 sh ii2 z ai4 sp b o2 x i1 ng sp
+modified_phone_list:sil z uei4 h ou4 sp i1 x ie1 sp g ua1 n ch a2 b a5 sp j iu4 d uo1 sh uo1 j i3 d ia3 n b a5 sp i1 sp ve4 n a2 n q ve4 sh ii2 z ai4 sp b o2 x i1 ng sp
+original_duration_list:7 11 7 13 9 18 14 6 6 11 4 8 4 4 6 3 5 12 4 7 11 19 9 4 9 5 8 6 7 5 5 4 5 5 12 33 23 32 5 6 9 5 8 5 9 4 6 4 5 3 9 10 5 6 29
+predicted_modified_duration_list:10 9 5 12 9 16 6 7 4 4 3 6 5 10 7 8 10 20 6 4 5 6 7 6 6 4 6 5 6 6 11 20 16 13 8 5 7 5 8 5 8 4 5 5 4 3 7 11 3 6 14
+frame_index_to_separate:10 frame_num:386

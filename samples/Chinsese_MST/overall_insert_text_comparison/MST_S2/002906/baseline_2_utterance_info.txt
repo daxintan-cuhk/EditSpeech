@@ -1,0 +1,13 @@
+original_text:医院和学校是公寓的高租住人群，医院已经在建了。
+text_to_insert:本市市区
+speaker:MST_S2
+word_location_to_insert:6
+original_word_list:yi1 yuan4 he2 xue2 xiao4 shi4 gong1 yu4 de5 gao1 zu1 zhu4 ren2 qun2 yi1 yuan4 yi3 jing1 zai4 jian4 le5
+inserted_word_list:yi1 yuan4 he2 xue2 xiao4 shi4 本市市区 gong1 yu4 de5 gao1 zu1 zhu4 ren2 qun2 yi1 yuan4 yi3 jing1 zai4 jian4 le5
+phone_location_to_insert:12
+phone_list_to_insert:b e3 n sh ii4 sh ii4 q v1
+original_phone_list:sil i1 va4 n h e2 x ve2 x iao4 sh ii4 g o1 ng v4 d e5 sp g ao1 z u1 zh u4 r e2 n q v2 n sp i1 va4 n i3 j i1 ng z ai4 j ia4 n l e5 sp
+inserted_phone_list:sil i1 va4 n h e2 x ve2 x iao4 sh ii4 b e3 n sh ii4 sh ii4 q v1 g o1 ng v4 d e5 sp g ao1 z u1 zh u4 r e2 n q v2 n sp i1 va4 n i3 j i1 ng z ai4 j ia4 n l e5 sp
+original_duration_list:8 12 9 6 9 3 9 7 7 11 7 4 6 4 8 6 3 3 7 2 9 8 6 7 7 5 5 7 11 5 9 17 12 11 6 5 5 3 5 5 7 7 6 6 4 14 10
+duration_list_to_insert:6 4 3 6 3 8 5 13 5
+frame_index_to_separate:16 frame_num:386

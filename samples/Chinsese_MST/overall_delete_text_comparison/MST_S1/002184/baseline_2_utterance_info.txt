@@ -1,0 +1,15 @@
+original_text:“你怎么说我们也不会相信，如果真是你的，叫你的家人到局里领取。”
+speaker:MST_S1
+word_delete_location_start:19
+word_delete_location_end:21
+word_buffer_size:1
+text_to_replace:
+word_modify_location_start:19
+word_modify_location_end:21
+original_word_list:ni3 zen3 me5 shuo1 wo3 men5 ye3 bu2 hui4 xiang1 xin4 ru2 guo3 zhen1 shi4 ni3 de5 jiao4 ni3 de5 jia1 ren2 dao4 ju2 li3 ling3 qu3
+modified_word_list:ni3 zen3 me5 shuo1 wo3 men5 ye3 bu2 hui4 xiang1 xin4 ru2 guo3 zhen1 shi4 ni3 de5 jiao4 ni3  dao4 ju2 li3 ling3 qu3
+phone_modify_location_start:45
+phone_modify_location_end:51
+original_phone_list:sil n i3 sp z e3 n m e5 sh uo1 uo3 m e5 n ie3 b u2 h uei4 x ia1 ng x i4 n sp r u2 g uo3 zh e1 n sh ii4 n i3 d e5 sp j iao4 n i3 d e5 j ia1 r e2 n d ao4 j v2 l i3 l i3 ng q v3 sp
+modified_phone_list:sil n i3 sp z e3 n m e5 sh uo1 uo3 m e5 n ie3 b u2 h uei4 x ia1 ng x i4 n sp r u2 g uo3 zh e1 n sh ii4 n i3 d e5 sp j iao4 n i3 d ao4 j v2 l i3 l i3 ng q v3 sp
+original_duration_list:10 6 4 7 4 2 3 3 7 10 12 11 4 4 7 6 6 3 7 4 7 4 6 8 5 2 22 13 5 5 8 8 5 3 8 3 5 11 5 12 21 7 10 4 7 5 5 6 11 7 6 4 7 6 7 5 6 4 6 7 6 11 10 16

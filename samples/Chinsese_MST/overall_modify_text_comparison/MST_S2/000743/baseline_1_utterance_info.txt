@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/MST/MST_S2/000743.wav
+original_text:“刷脸”这一概念对很多人来说其实并不陌生。
+text_to_replace:死肥宅
+speaker:MST_S2
+word_modify_location_start:9
+word_modify_location_end:9
+original_word_list:shua1 lian3 zhe4 yi1 gai4 nian4 dui4 hen3 duo1 ren2 lai2 shuo1 qi2 shi2 bing4 bu4 mo4 sheng1
+modified_word_list:shua1 lian3 zhe4 yi1 gai4 nian4 dui4 hen3 duo1 死肥宅 lai2 shuo1 qi2 shi2 bing4 bu4 mo4 sheng1
+phone_modify_location_start:22
+phone_modify_location_end:24
+phone_list_to_replace:s ii3 f ei2 zh ai2
+original_phone_list:sil sh ua1 l ia3 n zh e4 i1 g ai4 n ia4 n sp d uei4 h e3 n d uo1 r e2 n l ai2 sh uo1 sp q i2 sh ii2 b i4 ng sp b u4 m o4 sh e1 ng sp
+modified_phone_list:sil sh ua1 l ia3 n zh e4 i1 g ai4 n ia4 n sp d uei4 h e3 n d uo1 s ii3 f ei2 zh ai2 l ai2 sh uo1 sp q i2 sh ii2 b i4 ng sp b u4 m o4 sh e1 ng sp
+original_duration_list:10 15 10 6 6 9 7 6 8 9 7 7 7 8 6 4 5 11 3 7 6 5 6 3 4 4 9 11 13 4 10 4 7 7 5 6 4 5 3 2 11 7 10 8 6 31
+predicted_modified_duration_list:10 10 8 4 6 5 4 4 5 6 8 7 8 7 23 7 2 6 3 4 5 7 10 4 7 4 6 6 4 8 11 13 20 12 3 8 5 5 4 3 4 2 3 8 5 9 5 5 15
+frame_index_to_separate:114 frame_num:338

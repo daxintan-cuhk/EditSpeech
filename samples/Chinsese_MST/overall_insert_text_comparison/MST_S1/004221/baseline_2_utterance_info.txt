@@ -1,0 +1,13 @@
+original_text:他们只记得，他心狠手辣地处理了那三位可怜的老家伙。
+text_to_insert:凭记忆依稀
+speaker:MST_S1
+word_location_to_insert:3
+original_word_list:ta1 men5 zhi3 ji4 de5 ta1 xin1 hen3 shou3 la4 di4 chu3 li3 le5 na4 san1 wei4 ke3 lian2 de5 lao3 jia1 huo3
+inserted_word_list:ta1 men5 zhi3 凭记忆依稀 ji4 de5 ta1 xin1 hen3 shou3 la4 di4 chu3 li3 le5 na4 san1 wei4 ke3 lian2 de5 lao3 jia1 huo3
+phone_location_to_insert:9
+phone_list_to_insert:p i2 ng j i4 i4 i1 x i1
+original_phone_list:sil t a1 m e5 n zh ii3 sp j i4 d e5 sp t a1 x i1 n h e3 n sh ou3 l a4 d i4 sp ch u3 l i3 l e5 n a4 sp s a1 n uei4 k e3 l ia2 n d e5 l ao3 j ia1 h uo3 sp
+inserted_phone_list:sil t a1 m e5 n zh ii3 sp p i2 ng j i4 i4 i1 x i1 j i4 d e5 sp t a1 x i1 n h e3 n sh ou3 l a4 d i4 sp ch u3 l i3 l e5 n a4 sp s a1 n uei4 k e3 l ia2 n d e5 l ao3 j ia1 h uo3 sp
+original_duration_list:7 11 6 6 8 5 6 2 5 4 10 7 11 18 10 4 9 5 3 5 3 5 7 6 5 13 4 2 10 9 3 5 5 5 6 7 6 6 3 3 9 10 12 5 6 5 5 4 3 4 10 7 9 12 5 15
+duration_list_to_insert:9 4 5 5 7 8 10 11 6
+frame_index_to_separate:41 frame_num:441

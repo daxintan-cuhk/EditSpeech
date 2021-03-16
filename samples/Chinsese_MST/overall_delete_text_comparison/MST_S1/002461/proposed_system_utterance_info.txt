@@ -1,0 +1,17 @@
+original_text:喂您好，我这边是瓜子二手车全国营销中心，今天专门给您打个电话，至少可以给您再便宜好几千，
+speaker:MST_S1
+word_delete_location_start:34
+word_delete_location_end:36
+word_buffer_size:1
+text_to_replace:nin2 hao3
+word_modify_location_start:33
+word_modify_location_end:37
+original_word_list:wei4 nin2 hao3 wo3 zhe4 bian1 shi4 gua1 zi5 er4 shou3 che1 quan2 guo2 ying2 xiao1 zhong1 xin1 jin1 tian1 zhuan1 men2 gei3 nin2 da3 ge4 dian4 hua4 zhi4 shao3 ke3 yi3 gei3 nin2 zai4 pian2 yi2 hao3 ji3 qian1
+modified_word_list:wei4 nin2 hao3 wo3 zhe4 bian1 shi4 gua1 zi5 er4 shou3 che1 quan2 guo2 ying2 xiao1 zhong1 xin1 jin1 tian1 zhuan1 men2 gei3 nin2 da3 ge4 dian4 hua4 zhi4 shao3 ke3 yi3 gei3 nin2 hao3 ji3 qian1
+phone_modify_location_start:82
+phone_modify_location_end:92
+original_phone_list:sil uei4 n i2 n h ao3 sp uo3 zh e4 b ia1 n sh ii4 g ua1 sp z ii5 e4 r sh ou3 ch e1 q va2 n g uo2 i2 ng x iao1 zh o1 ng x i1 n sp j i1 n t ia1 n zh ua1 n m e2 n g ei3 n i2 n d a3 sp g e4 d ia4 n h ua4 sp zh ii4 sh ao3 sp k e3 i3 sp g ei3 n i2 n z ai4 p ia2 n i2 h ao3 j i3 q ia1 n sp
+modified_phone_list:sil uei4 n i2 n h ao3 sp uo3 zh e4 b ia1 n sh ii4 g ua1 sp z ii5 e4 r sh ou3 ch e1 q va2 n g uo2 i2 ng x iao1 zh o1 ng x i1 n sp j i1 n t ia1 n zh ua1 n m e2 n g ei3 n i2 n d a3 sp g e4 d ia4 n h ua4 sp zh ii4 sh ao3 sp k e3 i3 sp g ei3 n i2 n sp h ao3 j i3 q ia1 n sp
+original_duration_list:10 19 4 5 5 13 13 13 18 7 4 6 6 3 8 7 6 9 5 2 3 7 7 7 7 11 7 12 3 6 5 6 7 4 6 7 7 4 4 8 4 10 25 5 4 3 8 5 6 6 3 4 4 2 4 6 4 5 7 4 5 5 4 3 3 5 5 6 8 8 25 5 3 9 3 4 7 4 7 3 6 6 5 5 6 6 5 10 3 6 5 9 6 7 5 10 6 7 13
+overall_inserted_duration_list:10 19 4 5 5 13 13 13 18 7 4 6 6 3 8 7 6 9 5 2 3 7 7 7 7 11 7 12 3 6 5 6 7 4 6 7 7 4 4 8 4 10 25 5 4 3 8 5 6 6 3 4 4 2 4 6 4 5 7 4 5 5 4 3 3 5 5 6 8 8 25 5 3 9 3 4 7 4 7 3 6 6 6 7 7 7 8 5 7 5 10 6 7 13
+frame_index_to_separate:555 frame_num:632

@@ -1,0 +1,17 @@
+original_text:虽然满脸的烟灰把小家伙弄得土里土气，但仍掩不住他那俊俏的脸庞。
+speaker:MST_S2
+word_delete_location_start:22
+word_delete_location_end:26
+word_buffer_size:1
+text_to_replace:zhu4 lian3
+word_modify_location_start:21
+word_modify_location_end:27
+original_word_list:sui1 ran2 man3 lian3 de5 yan1 hui1 ba3 xiao3 jia1 huo5 nong4 de2 tu3 li3 tu3 qi4 dan4 reng2 yan3 bu2 zhu4 ta1 na4 jun4 qiao4 de5 lian3 pang2
+modified_word_list:sui1 ran2 man3 lian3 de5 yan1 hui1 ba3 xiao3 jia1 huo5 nong4 de2 tu3 li3 tu3 qi4 dan4 reng2 yan3 bu2 zhu4 lian3 pang2
+phone_modify_location_start:49
+phone_modify_location_end:65
+original_phone_list:s uei1 r a2 n m a3 n l ia3 n d e5 ia1 n h uei1 b a3 x iao3 j ia1 h uo5 n o4 ng d e2 t u3 l i3 t u3 q i4 sp d a4 n r e2 ng ia3 n b u2 zh u4 t a1 n a4 sp j v4 n q iao4 d e5 l ia3 n p a2 ng sp
+modified_phone_list:s uei1 r a2 n m a3 n l ia3 n d e5 ia1 n h uei1 b a3 x iao3 j ia1 h uo5 n o4 ng d e2 t u3 l i3 t u3 q i4 sp d a4 n r e2 ng ia3 n b u2 zh u4 sp l ia3 n p a2 ng sp
+original_duration_list:24 5 5 4 4 6 5 4 5 5 4 4 6 8 10 10 11 8 6 9 11 5 6 14 7 6 3 3 3 4 14 4 5 7 12 5 18 12 15 12 4 4 5 4 7 7 8 5 2 7 9 8 2 6 8 3 6 4 3 9 4 5 3 8 3 7 8 8 10 16
+predicted_modified_duration_list:14 6 6 4 4 5 4 3 3 4 4 3 6 10 5 8 5 5 5 7 10 6 7 11 3 7 4 4 4 5 11 4 4 5 9 6 13 10 22 8 4 4 3 4 7 5 6 5 3 6 6 4 4 5 4 11 5 7 14
+frame_index_to_separate:365 frame_num:371

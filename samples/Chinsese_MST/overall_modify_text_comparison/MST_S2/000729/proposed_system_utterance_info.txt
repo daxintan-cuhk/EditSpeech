@@ -1,0 +1,16 @@
+audio_file:/home/daxintan/AudioEdit-DuriTaco/data/wav/MST/MST_S2/000729.wav
+original_text:那个被人讽来赞去的不可一世的诗人安静地坐在他的房子里。
+text_to_replace:理论物理学家
+speaker:MST_S2
+word_modify_location_start:14
+word_modify_location_end:15
+original_word_list:na4 ge4 bei4 ren2 feng3 lai2 zan4 qu4 de5 bu4 ke3 yi1 shi4 de5 shi1 ren2 an1 jing4 di4 zuo4 zai4 ta1 de5 fang2 zi5 li3
+modified_word_list:na4 ge4 bei4 ren2 feng3 lai2 zan4 qu4 de5 bu4 ke3 yi1 shi4 de5 理论物理学家 an1 jing4 di4 zuo4 zai4 ta1 de5 fang2 zi5 li3
+phone_modify_location_start:33
+phone_modify_location_end:37
+phone_list_to_replace:l i3 l ue4 n u4 l i3 x ve2 j ia1
+original_phone_list:sil n a4 g e4 sp b ei4 r e2 n f e3 ng l ai2 z a4 n q v4 d e5 sp b u4 k e3 i1 sh ii4 d e5 sh ii1 r e2 n sp a1 n j i4 ng d i4 sp z uo4 z ai4 t a1 d e5 f a2 ng z ii5 l i3 sp
+modified_phone_list:sil n a4 g e4 sp b ei4 r e2 n f e3 ng l ai2 z a4 n q v4 d e5 sp b u4 k e3 i1 sh ii4 d e5 l i3 l ue4 n u4 l i3 x ve2 j ia1 sp a1 n j i4 ng d i4 sp z uo4 z ai4 t a1 d e5 f a2 ng z ii5 l i3 sp
+original_duration_list:19 7 6 3 3 5 3 6 6 5 6 11 2 6 5 8 9 4 8 14 5 5 17 10 5 3 15 4 8 13 3 6 4 15 6 6 6 13 12 7 11 6 6 4 4 3 3 6 6 5 4 8 2 6 4 8 5 8 7 5 7 11 11
+overall_modified_duration_list:19 7 6 3 3 5 3 6 6 5 6 11 2 6 5 8 9 4 8 14 5 5 17 10 5 3 15 4 8 13 3 6 4 5 7 6 6 9 6 4 7 8 8 9 18 12 7 11 6 6 4 4 3 3 6 6 5 4 8 2 6 4 8 5 8 7 5 7 11 11
+frame_index_to_separate:298 frame_num:486
