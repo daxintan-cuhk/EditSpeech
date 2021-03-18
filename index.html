@@ -6,14 +6,15 @@
 </head>
 <body>
 <h1 align='center'>Speech examples of speech audio edit for Chinese and English dataset</h1>
-<h2>
+<h3>
+    paper: 
     We select VCTK and MST dataset to be English and Chinese dataset for demo respectively. For each dataset, we 
     provide 10 samples for each edit option, including insertion, replacement and deletion. For the insertion and 
     replacement, we provide the original audio, the edited audio from baseline systems and our proposed system, to
     not only demonstrates the edit effect but also allow the listeners to compare the edit performance of different systems.
     For the deletion, we only provide the original audio and the edited audio from our proposed system, as difference 
     between different system is not noticeable.
-</h2>
+</h3>
 <hr>
 <h2>
 <font color='red'>1. English VCTK dataset:</font><br>
@@ -22,7 +23,7 @@
 <h3>
 <font color='red'>1.1 Insertion:</font><br>
 Each sample has<font color='red'> 6 audios</font>, of which one is the original audio from human, and
-the other 5 are synthesized audios. The synthesized audio are based on the <font
+the other 5 are synthesized audios from baseline and proposed systems. The synthesized audio are based on the <font
 color='red'>modified text where some words are inserted into the text of the original audio</font>.
 </h3>
 
@@ -639,7 +640,7 @@ color='red'>modified text where some words are inserted into the text of the ori
 <h3>
 <font color='red'>1.2 Replacement:</font><br>
 Each sample has<font color='red'> 6 audios</font>, of which one is the original audio from human, and
-the other 5 are synthesized audios. The synthesized audio are based on the <font
+the other 5 are synthesized audios from baseline and proposed systems. The synthesized audio are based on the <font
 color='red'>modified text where some words in the text of original audio are replaced by other words</font>.
 </h3>
 
@@ -1253,6 +1254,383 @@ color='red'>modified text where some words in the text of original audio are rep
 </tr>
 </table>
 <hr>
+<h3>
+<font color='red'>1.3 Deletion:</font><br>
+Each sample has<font color='red'> 2 audios</font>, of which one is the original audio from human, and
+the other is synthesized audio from proposed system. The synthesized audio are based on the <font
+color='red'>modified text where some words in the text of original audio are deleted</font>.
+</h3>
+
+<hr>
+<strong>Sample:1</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>For that reason cover should not be given.
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>for that reason cover should not be given
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>for that reason cover given
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p243/313/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p243/313/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:2</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>What do we want to do that for?
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>what do we want to do that for
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>what do we do that for
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p250/158/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p250/158/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:3</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>Some have accepted it as a miracle without physical explanation. 
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>some have accepted it as a miracle without physical explanation
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>some have accepted it without physical explanation
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p260/013/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p260/013/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:4</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>Both men were on one-year contracts.
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>both men were on one year contracts
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>both men were on contracts
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p261/346/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p261/346/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:5</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>We're not seeing an image of the person, he said.
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>we're not seeing an image of the person he said
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>we're not seeing person he said
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p265/196/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p265/196/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:6</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>Many complicated ideas about the rainbow have been formed. 
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>many complicated ideas about the rainbow have been formed
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>many complicated ideas have been formed
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p267/020/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p267/020/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:7</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>The parties include the Scottish Executive.
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>the parties include the scottish executive
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>the parties include the executive
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p270/389/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p270/389/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:8</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>And she is a successful actor with three decades of experience.
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>and she is a successful actor with three decades of experience
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>and she is a successful actor with experience
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p271/189/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p271/189/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:9</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>I am totally devoted to this job.
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>i am totally devoted to this job
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>i am devoted to this job
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p273/125/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p273/125/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:10</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>You should always be able to get out in some direction.
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>you should always be able to get out in some direction
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>you should always get out in some direction
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p276/399/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/English_VCTK/overall_delete_text_comparison/p276/399/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+<hr>
 <h2>
 <font color='red'>2. Chinse MST dataset:</font><br>
 </h2>
@@ -1260,7 +1638,7 @@ color='red'>modified text where some words in the text of original audio are rep
 <h3>
 <font color='red'>2.1 Insertion:</font><br>
 Each sample has<font color='red'> 6 audios</font>, of which one is the original audio from human, and
-the other 5 are synthesized audios. The synthesized audio are based on the <font
+the other 5 are synthesized audios from baseline and proposed systems. The synthesized audio are based on the <font
 color='red'>modified text where some words are inserted into the text of the original audio</font>.
 </h3>
 
@@ -1877,7 +2255,7 @@ color='red'>modified text where some words are inserted into the text of the ori
 <h3>
 <font color='red'>2.2 Replacement:</font><br>
 Each sample has<font color='red'> 6 audios</font>, of which one is the original audio from human, and
-the other 5 are synthesized audios. The synthesized audio are based on the <font
+the other 5 are synthesized audios from baseline and proposed systems. The synthesized audio are based on the <font
 color='red'>modified text where some words in the text of original audio are replaced by other words</font>.
 </h3>
 
@@ -2486,6 +2864,383 @@ color='red'>modified text where some words in the text of original audio are rep
     <h3 align='center'><strong>proposed system</strong></h3>
     <audio controls='controls' style='width: 240px;'>
         <source src='samples/Chinese_MST/overall_modify_text_comparison/MST_S2/000729/proposed_system_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+<hr>
+<h3>
+<font color='red'>2.3 Deletion:</font><br>
+Each sample has<font color='red'> 2 audios</font>, of which one is the original audio from human, and
+the other is synthesized audio from proposed system. The synthesized audio are based on the <font
+color='red'>modified text where some words in the text of original audio are deleted</font>.
+</h3>
+
+<hr>
+<strong>Sample:1</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>最后，一些粗浅观察吧，就多说几点吧。一，越南确实在勃兴。
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>zui4 hou4 yi1 xie1 cu1 qian3 guan1 cha2 ba5 jiu4 duo1 shuo1 ji3 dian3 ba5 yi1 yue4 nan2 que4 shi2 zai4 bo2 xing1
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>zui4 hou4 yi1 xie1 guan1 cha2 ba5 jiu4 duo1 shuo1 ji3 dian3 ba5 yi1 yue4 nan2 que4 shi2 zai4 bo2 xing1
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/000223/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/000223/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:2</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>这些差异和不同实际上就是横亘在穷人和富人之间的一道分界线。
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>zhe4 xie1 cha1 yi4 he2 bu4 tong2 shi2 ji4 shang4 jiu4 shi4 heng2 gen4 zai4 qiong2 ren2 he2 fu4 ren2 zhi1 jian1 de5 yi1 dao4 fen1 jie4 xian4
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>zhe4 xie1 cha1 yi4 shi2 ji4 shang4 jiu4 shi4 heng2 gen4 zai4 qiong2 ren2 he2 fu4 ren2 zhi1 jian1 de5 yi1 dao4 fen1 jie4 xian4
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/000579/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/000579/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:3</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>没多久，全世界的人都知道了，这个世界上还有一个美丽善良的姑娘叫拇指姑娘。
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>mei2 duo1 jiu3 quan2 shi4 jie4 de5 ren2 dou1 zhi1 dao4 le5 zhe4 ge4 shi4 jie4 shang4 hai2 you3 yi2 ge4 mei3 li4 shan4 liang2 de5 gu1 niang2 jiao4 mu3 zhi3 gu1 niang2
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>mei2 duo1 jiu3 quan2 shi4 jie4 de5 ren2 dou1 zhi1 dao4 le5 zhe4 ge4 shi4 jie4 shang4 hai2 you3 yi2 ge4 gu1 niang2 jiao4 mu3 zhi3 gu1 niang2
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/000958/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/000958/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:4</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>“你怎么说我们也不会相信，如果真是你的，叫你的家人到局里领取。”
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>ni3 zen3 me5 shuo1 wo3 men5 ye3 bu2 hui4 xiang1 xin4 ru2 guo3 zhen1 shi4 ni3 de5 jiao4 ni3 de5 jia1 ren2 dao4 ju2 li3 ling3 qu3
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>ni3 zen3 me5 shuo1 wo3 men5 ye3 bu2 hui4 xiang1 xin4 ru2 guo3 zhen1 shi4 ni3 de5 jiao4 ni3 dao4 ju2 li3 ling3 qu3
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/002184/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/002184/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:5</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>喂您好，我这边是瓜子二手车全国营销中心，今天专门给您打个电话，至少可以给您再便宜好几千，
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>wei4 nin2 hao3 wo3 zhe4 bian1 shi4 gua1 zi5 er4 shou3 che1 quan2 guo2 ying2 xiao1 zhong1 xin1 jin1 tian1 zhuan1 men2 gei3 nin2 da3 ge4 dian4 hua4 zhi4 shao3 ke3 yi3 gei3 nin2 zai4 pian2 yi2 hao3 ji3 qian1
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>wei4 nin2 hao3 wo3 zhe4 bian1 shi4 gua1 zi5 er4 shou3 che1 quan2 guo2 ying2 xiao1 zhong1 xin1 jin1 tian1 zhuan1 men2 gei3 nin2 da3 ge4 dian4 hua4 zhi4 shao3 ke3 yi3 gei3 nin2 hao3 ji3 qian1
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/002461/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/002461/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:6</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>她请求老巫婆赶紧施行法术，让拉斯姆斯赶紧回来。
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>ta1 qing3 qiu2 lao3 wu1 po2 gan3 jin3 shi1 xing2 fa3 shu4 rang4 la1 si1 mu3 si1 gan3 jin3 hui2 lai2
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>ta1 qing3 qiu2 lao3 wu1 po2 gan3 jin3 shi1 xing2 fa3 shu4 rang4 la1 si1 mu3 si1 hui2 lai2
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/003165/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/003165/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:7</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>受苦难折磨的中国人并不是我们几个，而是成千上万的。
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>shou4 ku3 nan4 zhe2 mo2 de5 zhong1 guo2 ren2 bing4 bu2 shi4 wo3 men5 ji3 ge4 er2 shi4 cheng2 qian1 shang4 wan4 de5
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>shou4 ku3 nan4 zhe2 mo2 de5 zhong1 guo2 ren2 bing4 bu2 shi4 ji3 ge4 er2 shi4 cheng2 qian1 shang4 wan4 de5
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/003968/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/003968/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:8</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>他们只记得，他心狠手辣地处理了那三位可怜的老家伙。
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>ta1 men5 zhi3 ji4 de5 ta1 xin1 hen3 shou3 la4 di4 chu3 li3 le5 na4 san1 wei4 ke3 lian2 de5 lao3 jia1 huo3
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>ta1 men5 zhi3 ji4 de5 ta1 xin1 hen3 shou3 la4 di4 chu3 li3 le5 lao3 jia1 huo3
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/004221/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S1/004221/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:9</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>一个好的婚姻更容易获得好的收益。
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>yi2 ge4 hao3 de5 hun1 yin1 geng4 rong2 yi4 huo4 de2 hao3 de5 shou1 yi4
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>yi2 ge4 hao3 de5 hun1 yin1 huo4 de2 hao3 de5 shou1 yi4
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S2/000444/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S2/000444/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
+    </audio>
+    </td>
+</tr>
+</table>
+
+<hr>
+<strong>Sample:10</strong>
+<table border='1'>
+<tr>
+    <td colspan='6'>
+        original_text: <strong>那个被人讽来赞去的不可一世的诗人安静地坐在他的房子里。
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        original word list: <strong>na4 ge4 bei4 ren2 feng3 lai2 zan4 qu4 de5 bu4 ke3 yi1 shi4 de5 shi1 ren2 an1 jing4 di4 zuo4 zai4 ta1 de5 fang2 zi5 li3
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td colspan='6'>
+        final word list: <strong>na4 ge4 shi1 ren2 an1 jing4 di4 zuo4 zai4 ta1 de5 fang2 zi5 li3
+</strong><br>
+    </td>
+</tr>
+<tr>
+    <td>
+    <h3 align='center'><strong>original_audio</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S2/000729/audio_groundtruth.wav' type='audio/wav'>
+    </audio>
+    </td>
+    <td>
+    <h3 align='center'><strong>proposed system</strong></h3>
+    <audio controls='controls' style='width: 240px;'>
+        <source src='samples/Chinese_MST/overall_delete_text_comparison/MST_S2/000729/baseline_2_normal_audio_outputs_hifigan_UNIVERSAL_V1.wav' type='audio/wav'>
     </audio>
     </td>
 </tr>
