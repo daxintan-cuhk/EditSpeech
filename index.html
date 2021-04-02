@@ -18,6 +18,13 @@
     between different system is not noticeable.
 </h3>
 <hr>
+    Baseline system for comparison:
+    The baseline systems 1 to 3 aim to indicate how the consideration of text and speech context contributes to the naturalness of the edited speech, while baseline system 4 aims to evaluate the naturalness improvement when the left and right context are both taken into consideration. We mainly compare EditSpeech and the baseline systems in insertion and replacement operations. As new content is added in these two operations, the differences between outputs of systems are obvious.
+    <strong>Baseline system 1</strong>: The whole edited text after insertion/replacement and the speaker embedding of the original speaker are used for the generation of the speech, where only the outputs of the forward decoder are used.
+    <strong>Baseline system 2</strong>: The text to insert/replace and the speaker embedding of the original speaker are used to generate mel-spectrogram to insert/replace, where only the outputs of the forward decoder are used. This mel-spctrogram is then concatenated with the unmodified part of given mel-spectrogram to construct the edited mel-spectrogram.
+    <strong>Baseline system 3</strong>: Candidate mel-spectrogram is first synthesized as in baseline system 1. Then DTW\cite{muller2007dynamic} of mel-cepstral coefficient (MCEP) is used to align the unmodified part of given and candidate mel-spectrogram. In this way, the modified part of the candidate mel-spectrogram can be located, which is then concatenated with the unmodified part of given mel-spectrogram to construct the edited mel-spectrogram.
+    <strong>Baseline system 4</strong>: This system is similar to the proposed system except the bidirectional fusion step is removed and only the outputs of the forward decoder are used.
+<hr>
 <h2>
 <font color='red'>1. English VCTK dataset:</font><br>
 </h2>
